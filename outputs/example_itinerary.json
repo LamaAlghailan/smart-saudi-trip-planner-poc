@@ -1,0 +1,3770 @@
+{
+  "stops": [
+    {
+      "ItemId": "place_0068",
+      "ItemType": "place",
+      "ItemName": "Tabuk Park Mall",
+      "ItemDescription": "The largest and most modern mall in Tabuk featuring international brands and a cinema.",
+      "Category": "urban",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 180.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.95",
+      "SuitableForInfants": "0.8",
+      "Latitude": 28.4287069,
+      "longitude": 36.5741763,
+      "MinAge": 0.0,
+      "MaxAge": 90.0,
+      "StartTime": "9:00",
+      "EndTime": "0:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.98,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "2",
+      "Temprature": "24",
+      "cluster_id": "cluster_tabuk_north",
+      "area_name": "Muruj Al-Amir",
+      "AvgRating": 4.4,
+      "TotalBookings": "28400.0",
+      "TotalFavorite": "7100.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_002",
+      "category": "urban",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 540,
+      "closes": 0,
+      "source_row": 70,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.5,
+        "hobby": 0.5,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.94
+      },
+      "score": 67.49424529577306,
+      "day": 1,
+      "date": "2026-06-01",
+      "start_minute": 540,
+      "end_minute": 720,
+      "start": "09:00",
+      "end": "12:00"
+    },
+    {
+      "ItemId": "place_0075",
+      "ItemType": "place",
+      "ItemName": "Al-Hokair Mall",
+      "ItemDescription": "Classic family mall featuring various local and international retailers.",
+      "Category": "urban",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 120.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "1",
+      "SuitableForInfants": "0.9",
+      "Latitude": 28.3947557,
+      "longitude": 36.5484368,
+      "MinAge": 0.0,
+      "MaxAge": 90.0,
+      "StartTime": "9:00",
+      "EndTime": "23:30",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.85,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "2",
+      "Temprature": "24",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Al-Salhiya",
+      "AvgRating": 3.8,
+      "TotalBookings": "11400.0",
+      "TotalFavorite": "2850.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_009",
+      "category": "urban",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 540,
+      "closes": 1410,
+      "source_row": 77,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.5,
+        "hobby": 0.5,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8140000000000001
+      },
+      "score": 66.86424529577305,
+      "day": 1,
+      "date": "2026-06-01",
+      "start_minute": 750,
+      "end_minute": 870,
+      "start": "12:30",
+      "end": "14:30"
+    },
+    {
+      "ItemId": "place_0080",
+      "ItemType": "place",
+      "ItemName": "Tabuk Regional Museum",
+      "ItemDescription": "Archaeological museum displaying the rich history of the Tabuk region.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 90.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.8",
+      "Latitude": 28.3878143,
+      "longitude": 36.5619096,
+      "MinAge": 0.0,
+      "MaxAge": 90.0,
+      "StartTime": "9:00",
+      "EndTime": "19:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.91,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "2",
+      "Temprature": "24",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Cultural District",
+      "AvgRating": 4.7,
+      "TotalBookings": "5400.0",
+      "TotalFavorite": "1350.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_017",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 540,
+      "closes": 1140,
+      "source_row": 82,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.922
+      },
+      "score": 66.54497739134789,
+      "day": 1,
+      "date": "2026-06-01",
+      "start_minute": 900,
+      "end_minute": 990,
+      "start": "15:00",
+      "end": "16:30"
+    },
+    {
+      "ItemId": "place_0069",
+      "ItemType": "place",
+      "ItemName": "Boulevard Tabuk",
+      "ItemDescription": "A modern outdoor lifestyle destination with premium dining and cafes.",
+      "Category": "urban",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 150.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.7",
+      "Latitude": 28.4320034,
+      "longitude": 36.5265615,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "16:00",
+      "EndTime": "2:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.95,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "6",
+      "Temprature": "22",
+      "cluster_id": "cluster_tabuk_west",
+      "area_name": "Al-Masif",
+      "AvgRating": 4.2,
+      "TotalBookings": "19200.0",
+      "TotalFavorite": "4800.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_003",
+      "category": "urban",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 960,
+      "closes": 120,
+      "source_row": 71,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.5,
+        "hobby": 0.5,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.9059999999999999
+      },
+      "score": 66.55549102958742,
+      "day": 2,
+      "date": "2026-06-02",
+      "start_minute": 960,
+      "end_minute": 1110,
+      "start": "16:00",
+      "end": "18:30"
+    },
+    {
+      "ItemId": "place_0072",
+      "ItemType": "place",
+      "ItemName": "Tabuk Castle",
+      "ItemDescription": "Historic castle serving as a museum of the region's long history.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 20.0,
+      "DurationMinutes": 60.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.6",
+      "Latitude": 28.3827152,
+      "longitude": 36.556315,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "8:00",
+      "EndTime": "20:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.9,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "mid",
+      "WetherSenstivity": "2",
+      "Temprature": "25",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Old Town",
+      "AvgRating": 4.6,
+      "TotalBookings": "9200.0",
+      "TotalFavorite": "2300.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_006",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 480,
+      "closes": 1200,
+      "source_row": 74,
+      "group_cost": 40.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.908
+      },
+      "score": 66.47497739134788,
+      "day": 2,
+      "date": "2026-06-02",
+      "start_minute": 1140,
+      "end_minute": 1200,
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "ItemId": "place_0088",
+      "ItemType": "place",
+      "ItemName": "Souq Al-Haj",
+      "ItemDescription": "Seasonal heritage market on the historical pilgrim route.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 90.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.7",
+      "Latitude": 28.377432,
+      "longitude": 36.547731,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "16:00",
+      "EndTime": "23:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.85,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "8",
+      "Temprature": "27",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Old Town",
+      "AvgRating": 4.2,
+      "TotalBookings": "4200.0",
+      "TotalFavorite": "1050.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_026",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 960,
+      "closes": 1380,
+      "source_row": 90,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8460000000000001
+      },
+      "score": 65.39622312516225,
+      "day": 2,
+      "date": "2026-06-02",
+      "start_minute": 1230,
+      "end_minute": 1320,
+      "start": "20:30",
+      "end": "22:00"
+    },
+    {
+      "ItemId": "place_0077",
+      "ItemType": "place",
+      "ItemName": "Hegjaz Railway Station",
+      "ItemDescription": "Museum documenting the history of the early 20th century rail line.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 60.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.85",
+      "SuitableForInfants": "0.5",
+      "Latitude": 28.3874572,
+      "longitude": 36.5617383,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "8:00",
+      "EndTime": "18:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.89,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "3",
+      "Temprature": "25",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Al-Aziziyah",
+      "AvgRating": 4.7,
+      "TotalBookings": "7600.0",
+      "TotalFavorite": "1900.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_014",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 480,
+      "closes": 1080,
+      "source_row": 79,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.91
+      },
+      "score": 66.48497739134788,
+      "day": 3,
+      "date": "2026-06-03",
+      "start_minute": 540,
+      "end_minute": 600,
+      "start": "09:00",
+      "end": "10:00"
+    },
+    {
+      "ItemId": "place_0078",
+      "ItemType": "place",
+      "ItemName": "Souq Al-Tawahin",
+      "ItemDescription": "Historic market selling spices, carpets, and heritage items.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 60.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.85",
+      "SuitableForInfants": "0.6",
+      "Latitude": 28.3821722,
+      "longitude": 36.5586715,
+      "MinAge": 0.0,
+      "MaxAge": 80.0,
+      "StartTime": "8:00",
+      "EndTime": "21:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.87,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "8",
+      "Temprature": "28",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Old Town",
+      "AvgRating": 4.3,
+      "TotalBookings": "6800.0",
+      "TotalFavorite": "1700.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_015",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 480,
+      "closes": 1260,
+      "source_row": 80,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.866
+      },
+      "score": 65.49622312516225,
+      "day": 3,
+      "date": "2026-06-03",
+      "start_minute": 630,
+      "end_minute": 690,
+      "start": "10:30",
+      "end": "11:30"
+    },
+    {
+      "ItemId": "place_0070",
+      "ItemType": "place",
+      "ItemName": "Jabal Al-Lawz",
+      "ItemDescription": "A high-altitude peak famous for its winter snowfall and historical importance.",
+      "Category": "nature",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 300.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.8",
+      "SuitableForInfants": "0.4",
+      "Latitude": 28.6460625,
+      "longitude": 35.286253,
+      "MinAge": 5.0,
+      "MaxAge": 75.0,
+      "StartTime": "7:00",
+      "EndTime": "17:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": false,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.96,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "10",
+      "Temprature": "5",
+      "cluster_id": "cluster_lawz",
+      "area_name": "Highlands",
+      "AvgRating": 4.4,
+      "TotalBookings": "12800.0",
+      "TotalFavorite": "3200.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_004",
+      "category": "nature",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 420,
+      "closes": 1020,
+      "source_row": 72,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.9279999999999999
+      },
+      "score": 64.46029382271732,
+      "day": 3,
+      "date": "2026-06-03",
+      "start_minute": 720,
+      "end_minute": 1020,
+      "start": "12:00",
+      "end": "17:00"
+    }
+  ],
+  "total_cost": 40.0,
+  "remaining_budget": 960.0,
+  "empty_days": [],
+  "tourist_profile": {
+    "birth_country": "India",
+    "days": 3,
+    "budget": 1000,
+    "adults": 2,
+    "children": 0,
+    "youngest_age": 30,
+    "oldest_age": 30,
+    "start_date": "2026-06-01",
+    "family": false,
+    "seniors": false,
+    "mode": "Smart Cold-Start",
+    "explicit_interests": []
+  },
+  "resolved_profile": {
+    "mode": "Smart Cold-Start",
+    "explicit_interests": [],
+    "weights": {
+      "category": 0.4,
+      "hobby": 0.1,
+      "environment": 0.15,
+      "budget": 0.2,
+      "group": 0.1,
+      "quality": 0.05
+    },
+    "explicit_share_of_preference_score": 0,
+    "wvs_profile": {
+      "birth_country": "India",
+      "hobbies": {
+        "Beach & Water Activities": 0.39210515747220803,
+        "Enjoying Nature": 0.4223148530329517,
+        "Festivals & Theme Parks": 0.4672428256210844,
+        "Guided Heritage Tours": 0.446363118037014,
+        "Hiking": 0.48321425576094956,
+        "Luxury Dining": 0.4442779498076736,
+        "Museums & Exhibitions": 0.5332027638544252,
+        "National Parks": 0.3897171564797321,
+        "Shopping & Malls": 0.512219363410507
+      },
+      "categories": {
+        "adventure": 0.48321425576094956,
+        "beach": 0.39210515747220803,
+        "cultural": 0.48107256715294056,
+        "entertainment": 0.4762108926560985,
+        "food": 0.4442779498076736,
+        "nature": 0.46836606863916175,
+        "shopping": 0.512219363410507
+      },
+      "environments": {
+        "Both": 0.445493341079362,
+        "Indoor": 0.5196163530515373,
+        "Outdoor": 0.46836606863916175
+      },
+      "evidence": [
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Hiking",
+          "WVS-Derived Signal (%)": "48.07607263095713",
+          "Global Baseline (%)": "42.405773828216084",
+          "Relative vs Global (pp)": "5.6702988027410415",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "87.24728650957935",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "4",
+          "used": true,
+          "affinity": 0.48321425576094956,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Beach & Water Activities",
+          "WVS-Derived Signal (%)": "38.84450668640794",
+          "Global Baseline (%)": "33.394007740029444",
+          "Relative vs Global (pp)": "5.450498946378496",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "96.71902397747921",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "7",
+          "used": true,
+          "affinity": 0.39210515747220803,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Enjoying Nature",
+          "WVS-Derived Signal (%)": "41.7290859981601",
+          "Global Baseline (%)": "35.73461929121802",
+          "Relative vs Global (pp)": "5.994466706942081",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "93.92570996357468",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "9",
+          "used": true,
+          "affinity": 0.4223148530329517,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "National Parks",
+          "WVS-Derived Signal (%)": "38.418830662639536",
+          "Global Baseline (%)": "34.154031250431885",
+          "Relative vs Global (pp)": "4.2647994122076485",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "95.2260003353022",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "10",
+          "used": true,
+          "affinity": 0.3897171564797321,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Museums & Exhibitions",
+          "WVS-Derived Signal (%)": "53.86363454015507",
+          "Global Baseline (%)": "53.21279490107151",
+          "Relative vs Global (pp)": "0.6508396390835558",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "85.93660582890584",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "25",
+          "used": true,
+          "affinity": 0.5332027638544252,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Guided Heritage Tours",
+          "WVS-Derived Signal (%)": "43.916081699131",
+          "Global Baseline (%)": "44.025709136898456",
+          "Relative vs Global (pp)": "-0.10962743776745665",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "88.16173937661972",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "28",
+          "used": true,
+          "affinity": 0.446363118037014,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Luxury Dining",
+          "WVS-Derived Signal (%)": "43.67336400008796",
+          "Global Baseline (%)": "41.81706690311129",
+          "Relative vs Global (pp)": "1.8562970969766668",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "88.07532185050803",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "15",
+          "used": true,
+          "affinity": 0.4442779498076736,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Shopping & Malls",
+          "WVS-Derived Signal (%)": "51.431748089672304",
+          "Global Baseline (%)": "46.00721016910182",
+          "Relative vs Global (pp)": "5.424537920570483",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "85.345763676233",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "5",
+          "used": true,
+          "affinity": 0.512219363410507,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "HOBBY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Hobby": "Festivals & Theme Parks",
+          "WVS-Derived Signal (%)": "46.19046096677232",
+          "Global Baseline (%)": "44.875439059672736",
+          "Relative vs Global (pp)": "1.3150219070995839",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "85.98723912053397",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "26",
+          "used": true,
+          "affinity": 0.4672428256210844,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Adventure",
+          "WVS-Derived Signal (%)": "48.07607263095713",
+          "Global Baseline (%)": "42.405773828216084",
+          "Relative vs Global (pp)": "5.6702988027410415",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "87.24728650957935",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "4",
+          "used": true,
+          "affinity": 0.48321425576094956,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Beach",
+          "WVS-Derived Signal (%)": "38.84450668640794",
+          "Global Baseline (%)": "33.394007740029444",
+          "Relative vs Global (pp)": "5.450498946378496",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "96.71902397747921",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "7",
+          "used": true,
+          "affinity": 0.39210515747220803,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Cultural",
+          "WVS-Derived Signal (%)": "45.957498370681215",
+          "Global Baseline (%)": "47.37225820379564",
+          "Relative vs Global (pp)": "-1.4147598331144207",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "89.91506687096297",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "42",
+          "used": true,
+          "affinity": 0.4636518195673825,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Entertainment",
+          "WVS-Derived Signal (%)": "48.26366011482954",
+          "Global Baseline (%)": "46.99842334814414",
+          "Relative vs Global (pp)": "1.265236766685407",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "85.35794423355321",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "20",
+          "used": true,
+          "affinity": 0.4851789596911126,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Festival",
+          "WVS-Derived Signal (%)": "46.19046096677232",
+          "Global Baseline (%)": "44.875439059672736",
+          "Relative vs Global (pp)": "1.3150219070995839",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "85.98723912053397",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "26",
+          "used": true,
+          "affinity": 0.4672428256210844,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Food",
+          "WVS-Derived Signal (%)": "43.67336400008796",
+          "Global Baseline (%)": "41.81706690311129",
+          "Relative vs Global (pp)": "1.8562970969766668",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "88.07532185050803",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "15",
+          "used": true,
+          "affinity": 0.4442779498076736,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Historical District",
+          "WVS-Derived Signal (%)": "43.916081699131",
+          "Global Baseline (%)": "44.025709136898456",
+          "Relative vs Global (pp)": "-0.10962743776745665",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "88.16173937661972",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "28",
+          "used": true,
+          "affinity": 0.446363118037014,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Museum",
+          "WVS-Derived Signal (%)": "53.86363454015507",
+          "Global Baseline (%)": "53.21279490107151",
+          "Relative vs Global (pp)": "0.6508396390835558",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "85.93660582890584",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "25",
+          "used": true,
+          "affinity": 0.5332027638544252,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Nature",
+          "WVS-Derived Signal (%)": "46.36043660637229",
+          "Global Baseline (%)": "41.626029688512666",
+          "Relative vs Global (pp)": "4.734406917859624",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "86.91683023360491",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "7",
+          "used": true,
+          "affinity": 0.46836606863916175,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "CATEGORY_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Category": "Shopping",
+          "WVS-Derived Signal (%)": "51.431748089672304",
+          "Global Baseline (%)": "46.00721016910182",
+          "Relative vs Global (pp)": "5.424537920570483",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "85.345763676233",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "5",
+          "used": true,
+          "affinity": 0.512219363410507,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "ENVIRONMENT_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Environment": "Indoor",
+          "WVS-Derived Signal (%)": "52.34415690174601",
+          "Global Baseline (%)": "51.19693533673506",
+          "Relative vs Global (pp)": "1.1472215650109474",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "83.68191155176659",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "19",
+          "used": true,
+          "affinity": 0.5196163530515373,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "ENVIRONMENT_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Environment": "Outdoor",
+          "WVS-Derived Signal (%)": "46.36043660637229",
+          "Global Baseline (%)": "41.626029688512666",
+          "Relative vs Global (pp)": "4.734406917859624",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "86.91683023360491",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "7",
+          "used": true,
+          "affinity": 0.46836606863916175,
+          "exclusion_reason": ""
+        },
+        {
+          "sheet": "ENVIRONMENT_RESULTS",
+          "Birth Country": "India",
+          "ISO3": "IND",
+          "Environment": "Both",
+          "WVS-Derived Signal (%)": "43.68339889722754",
+          "Global Baseline (%)": "44.05914438263995",
+          "Relative vs Global (pp)": "-0.37574548541241537",
+          "Raw N": "1873",
+          "Effective N": "1573.029133167183",
+          "Question Coverage (%)": "86.29112086358303",
+          "Eligible for Ranking": "TRUE",
+          "Country Rank": "31",
+          "used": true,
+          "affinity": 0.445493341079362,
+          "exclusion_reason": ""
+        }
+      ],
+      "warnings": [],
+      "eligible_rows": 22
+    },
+    "combined_categories": [
+      {
+        "category": "adventure",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.48321425576094956,
+        "resolved_category_affinity": 0.48321425576094956
+      },
+      {
+        "category": "cultural",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.48107256715294056,
+        "resolved_category_affinity": 0.48107256715294056
+      },
+      {
+        "category": "entertainment",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.4762108926560985,
+        "resolved_category_affinity": 0.4762108926560985
+      },
+      {
+        "category": "family",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.5,
+        "resolved_category_affinity": 0.5
+      },
+      {
+        "category": "food & entertainment",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.5,
+        "resolved_category_affinity": 0.5
+      },
+      {
+        "category": "leisure",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.5,
+        "resolved_category_affinity": 0.5
+      },
+      {
+        "category": "nature",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.46836606863916175,
+        "resolved_category_affinity": 0.46836606863916175
+      },
+      {
+        "category": "shopping",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.512219363410507,
+        "resolved_category_affinity": 0.512219363410507
+      },
+      {
+        "category": "urban",
+        "explicit_match": false,
+        "inferred_category_affinity": 0.5,
+        "resolved_category_affinity": 0.5
+      }
+    ]
+  },
+  "destination_candidates": [
+    {
+      "city": "Tabuk",
+      "score": 65.71173210650862,
+      "components": {
+        "category": 0.4828499769624493,
+        "hobby": 0.4687686903356918,
+        "environment": 0.48666974164358157,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.882
+      },
+      "contributions": {
+        "category": 19.31399907849797,
+        "hobby": 4.6876869033569175,
+        "environment": 7.300046124653724,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.41
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0068",
+        "1": "place_0069",
+        "2": "place_0070"
+      },
+      "available_count": 14,
+      "candidate_count": 14,
+      "category_distribution": {
+        "cultural": 0.42857142857142855,
+        "nature": 0.2857142857142857,
+        "urban": 0.2857142857142857
+      },
+      "environment_distribution": {
+        "Indoor": 0.35714285714285715,
+        "Outdoor": 0.6428571428571429
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 1
+    },
+    {
+      "city": "Unaizah",
+      "score": 65.68120669154357,
+      "components": {
+        "category": 0.47977545431684093,
+        "hobby": 0.4583195782808246,
+        "environment": 0.48886618240411195,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.9148
+      },
+      "contributions": {
+        "category": 19.191018172673637,
+        "hobby": 4.583195782808246,
+        "environment": 7.332992736061679,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.574
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0043",
+        "1": "place_0048",
+        "2": "place_0053"
+      },
+      "available_count": 5,
+      "candidate_count": 5,
+      "category_distribution": {
+        "cultural": 0.4,
+        "nature": 0.4,
+        "urban": 0.2
+      },
+      "environment_distribution": {
+        "Indoor": 0.4,
+        "Outdoor": 0.6
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 2
+    },
+    {
+      "city": "Buraydah",
+      "score": 65.29035552853934,
+      "components": {
+        "category": 0.47708524700193355,
+        "hobby": 0.44917660523281583,
+        "environment": 0.4811786397422556,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8995
+      },
+      "contributions": {
+        "category": 19.08340988007734,
+        "hobby": 4.491766052328158,
+        "environment": 7.217679596133834,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.4975
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0047",
+        "1": "place_0050",
+        "2": "place_0051"
+      },
+      "available_count": 8,
+      "candidate_count": 8,
+      "category_distribution": {
+        "cultural": 0.375,
+        "nature": 0.5,
+        "urban": 0.125
+      },
+      "environment_distribution": {
+        "Indoor": 0.25,
+        "Outdoor": 0.75
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 3
+    },
+    {
+      "city": "Baljurashi",
+      "score": 65.1966917278699,
+      "components": {
+        "category": 0.49209151715979044,
+        "hobby": 0.4765040011890855,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.7444999999999999
+      },
+      "contributions": {
+        "category": 19.68366068639162,
+        "hobby": 4.7650400118908545,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 3.7224999999999997
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "act_0012",
+        "1": "place_0295",
+        "2": "place_0296"
+      },
+      "available_count": 4,
+      "candidate_count": 4,
+      "category_distribution": {
+        "leisure": 0.75,
+        "nature": 0.25
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 0.75,
+        "mid": 0.25
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 4
+    },
+    {
+      "city": "Al Makhwah",
+      "score": 64.93334792791003,
+      "components": {
+        "category": 0.4816079893049428,
+        "hobby": 0.48814076964952713,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 0.9814814814814815,
+        "group": 1.0,
+        "quality": 0.8265
+      },
+      "contributions": {
+        "category": 19.264319572197714,
+        "hobby": 4.8814076964952715,
+        "environment": 7.025491029587426,
+        "budget": 19.62962962962963,
+        "group": 10.0,
+        "quality": 4.1325
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0292",
+        "1": "place_0299",
+        "2": "act_0016"
+      },
+      "available_count": 4,
+      "candidate_count": 4,
+      "category_distribution": {
+        "adventure": 0.25,
+        "cultural": 0.75
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 0.5,
+        "mid": 0.5
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 5
+    },
+    {
+      "city": "Najran",
+      "score": 64.57333198818449,
+      "components": {
+        "category": 0.47742819100214284,
+        "hobby": 0.4656850916861411,
+        "environment": 0.4752902287491575,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.9565217391304348,
+        "quality": 0.8249565217391305
+      },
+      "contributions": {
+        "category": 19.097127640085713,
+        "hobby": 4.656850916861411,
+        "environment": 7.129353431237362,
+        "budget": 20.0,
+        "group": 9.565217391304348,
+        "quality": 4.124782608695653
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0036",
+        "1": "place_0037",
+        "2": "place_0038"
+      },
+      "available_count": 23,
+      "candidate_count": 23,
+      "category_distribution": {
+        "adventure": 0.043478260869565216,
+        "cultural": 0.6086956521739131,
+        "entertainment": 0.08695652173913043,
+        "nature": 0.2608695652173913
+      },
+      "environment_distribution": {
+        "Both": 0.08695652173913043,
+        "Indoor": 0.17391304347826086,
+        "Outdoor": 0.7391304347826086
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 6
+    },
+    {
+      "city": "Jazan",
+      "score": 64.1834169006292,
+      "components": {
+        "category": 0.4860878977116714,
+        "hobby": 0.4704520642580473,
+        "environment": 0.4751164060215072,
+        "explicit": 0.0,
+        "budget": 0.9473379629629629,
+        "group": 0.959375,
+        "quality": 0.873625
+      },
+      "contributions": {
+        "category": 19.443515908466857,
+        "hobby": 4.704520642580473,
+        "environment": 7.126746090322608,
+        "budget": 18.94675925925926,
+        "group": 9.59375,
+        "quality": 4.368125
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0032",
+        "1": "place_0302",
+        "2": "place_0304"
+      },
+      "available_count": 16,
+      "candidate_count": 16,
+      "category_distribution": {
+        "adventure": 0.0625,
+        "cultural": 0.1875,
+        "entertainment": 0.1875,
+        "leisure": 0.0625,
+        "nature": 0.25,
+        "shopping": 0.25
+      },
+      "environment_distribution": {
+        "Both": 0.125,
+        "Indoor": 0.1875,
+        "Outdoor": 0.6875
+      },
+      "budget_distribution": {
+        "low": 0.625,
+        "mid": 0.375
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 7
+    },
+    {
+      "city": "Al Kharj",
+      "score": 63.9538754020358,
+      "components": {
+        "category": 0.4752165094827336,
+        "hobby": 0.4543472571077153,
+        "environment": 0.48544949677662025,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.9416666666666667,
+        "quality": 0.7406666666666667
+      },
+      "contributions": {
+        "category": 19.008660379309344,
+        "hobby": 4.543472571077153,
+        "environment": 7.281742451649304,
+        "budget": 20.0,
+        "group": 9.416666666666666,
+        "quality": 3.7033333333333336
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0011",
+        "1": "place_0012",
+        "2": "place_0013"
+      },
+      "available_count": 3,
+      "candidate_count": 3,
+      "category_distribution": {
+        "cultural": 0.3333333333333333,
+        "entertainment": 0.3333333333333333,
+        "nature": 0.3333333333333333
+      },
+      "environment_distribution": {
+        "Indoor": 0.3333333333333333,
+        "Outdoor": 0.6666666666666666
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 8
+    },
+    {
+      "city": "Abha",
+      "score": 63.03421874335358,
+      "components": {
+        "category": 0.4802037920384427,
+        "hobby": 0.4570058412438706,
+        "environment": 0.4637915231272018,
+        "explicit": 0.0,
+        "budget": 0.9234567901234568,
+        "group": 0.95,
+        "quality": 0.866
+      },
+      "contributions": {
+        "category": 19.208151681537707,
+        "hobby": 4.570058412438706,
+        "environment": 6.956872846908027,
+        "budget": 18.469135802469136,
+        "group": 9.5,
+        "quality": 4.33
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "act_0001",
+        "1": "place_0025",
+        "2": "place_0027"
+      },
+      "available_count": 5,
+      "candidate_count": 5,
+      "category_distribution": {
+        "adventure": 0.2,
+        "cultural": 0.2,
+        "family": 0.2,
+        "nature": 0.4
+      },
+      "environment_distribution": {
+        "Both": 0.2,
+        "Outdoor": 0.8
+      },
+      "budget_distribution": {
+        "low": 0.6,
+        "mid": 0.4
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 9
+    },
+    {
+      "city": "Al Baha",
+      "score": 63.006195267622736,
+      "components": {
+        "category": 0.48445835958916583,
+        "hobby": 0.4686769224694933,
+        "environment": 0.4727318466164811,
+        "explicit": 0.0,
+        "budget": 0.8903133903133903,
+        "group": 0.9942307692307693,
+        "quality": 0.8203076923076923
+      },
+      "contributions": {
+        "category": 19.37833438356663,
+        "hobby": 4.686769224694933,
+        "environment": 7.090977699247216,
+        "budget": 17.806267806267805,
+        "group": 9.942307692307693,
+        "quality": 4.101538461538461
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0039",
+        "1": "place_0040",
+        "2": "place_0291"
+      },
+      "available_count": 13,
+      "candidate_count": 13,
+      "category_distribution": {
+        "adventure": 0.23076923076923078,
+        "cultural": 0.23076923076923078,
+        "family": 0.15384615384615385,
+        "food & entertainment": 0.07692307692307693,
+        "leisure": 0.07692307692307693,
+        "nature": 0.23076923076923078
+      },
+      "environment_distribution": {
+        "Both": 0.15384615384615385,
+        "Indoor": 0.15384615384615385,
+        "Outdoor": 0.6923076923076923
+      },
+      "budget_distribution": {
+        "high": 0.15384615384615385,
+        "low": 0.6923076923076923,
+        "mid": 0.15384615384615385
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 10
+    },
+    {
+      "city": "Farasan",
+      "score": 57.77750892356512,
+      "components": {
+        "category": 0.47896678682850036,
+        "hobby": 0.4655568643059902,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 0.638888888888889,
+        "group": 0.9625,
+        "quality": 0.907
+      },
+      "contributions": {
+        "category": 19.158671473140014,
+        "hobby": 4.655568643059902,
+        "environment": 7.025491029587426,
+        "budget": 12.777777777777779,
+        "group": 9.625,
+        "quality": 4.535
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "place_0033",
+        "1": "place_0313",
+        "2": "place_0034"
+      },
+      "available_count": 4,
+      "candidate_count": 4,
+      "category_distribution": {
+        "adventure": 0.5,
+        "cultural": 0.25,
+        "nature": 0.25
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "high": 0.75,
+        "low": 0.25
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 11
+    },
+    {
+      "city": "Riyadh",
+      "score": 55.77553842408223,
+      "components": {
+        "category": 0.4778354406309979,
+        "hobby": 0.47133455719324063,
+        "environment": 0.4985678917293128,
+        "explicit": 0.0,
+        "budget": 0.5694631009464435,
+        "group": 0.9277939276485787,
+        "quality": 0.7606111111111111
+      },
+      "contributions": {
+        "category": 19.11341762523992,
+        "hobby": 4.713345571932407,
+        "environment": 7.478518375939692,
+        "budget": 11.38926201892887,
+        "group": 9.277939276485787,
+        "quality": 3.803055555555556
+      },
+      "supports_all_days": true,
+      "daily_anchor_ids": {
+        "0": "act_0273",
+        "1": "act_0274",
+        "2": "act_0275"
+      },
+      "available_count": 43,
+      "candidate_count": 36,
+      "category_distribution": {
+        "adventure": 0.16666666666666666,
+        "cultural": 0.1388888888888889,
+        "entertainment": 0.6666666666666666,
+        "nature": 0.027777777777777776
+      },
+      "environment_distribution": {
+        "Both": 0.1111111111111111,
+        "Indoor": 0.6388888888888888,
+        "Outdoor": 0.25
+      },
+      "budget_distribution": {
+        "free": 0.1111111111111111,
+        "high": 0.25,
+        "low": 0.2777777777777778,
+        "mid": 0.3611111111111111
+      },
+      "group_compatible_fraction": 0.9069767441860465,
+      "rank": 12
+    },
+    {
+      "city": "Al-Bukayriyah",
+      "score": 66.24497739134787,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8620000000000001
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.7942452957730595,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.3100000000000005
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0049"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Indoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 13
+    },
+    {
+      "city": "Tayma",
+      "score": 65.80622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.928
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.640000000000001
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0086"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 14
+    },
+    {
+      "city": "Al-Bad'",
+      "score": 65.72622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.912
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.5600000000000005
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0071"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 15
+    },
+    {
+      "city": "Al-Mithnab",
+      "score": 65.70622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.908
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.54
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0052"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 16
+    },
+    {
+      "city": "Uyun Al-Jiwa",
+      "score": 65.67122312516224,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.901
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.505
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0045",
+        "1": "place_0059"
+      },
+      "available_count": 2,
+      "candidate_count": 2,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 17
+    },
+    {
+      "city": "Ar-Rass",
+      "score": 65.60622312516224,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.888
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.44
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0044"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 18
+    },
+    {
+      "city": "Ushaiger",
+      "score": 65.34622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.975,
+        "quality": 0.886
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.75,
+        "quality": 4.43
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0015"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 19
+    },
+    {
+      "city": "Tabuk Region",
+      "score": 65.18325847393979,
+      "components": {
+        "category": 0.47471931789605115,
+        "hobby": 0.44789947285103077,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.938
+      },
+      "contributions": {
+        "category": 18.988772715842046,
+        "hobby": 4.478994728510307,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.6899999999999995
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0067",
+        "1": "place_0087"
+      },
+      "available_count": 2,
+      "candidate_count": 2,
+      "category_distribution": {
+        "cultural": 0.5,
+        "nature": 0.5
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 20
+    },
+    {
+      "city": "Tanomah",
+      "score": 65.1462038176349,
+      "components": {
+        "category": 0.48321425576094956,
+        "hobby": 0.48321425576094956,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.975,
+        "quality": 0.842
+      },
+      "contributions": {
+        "category": 19.328570230437983,
+        "hobby": 4.832142557609496,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.75,
+        "quality": 4.21
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0030"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "adventure": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 21
+    },
+    {
+      "city": "Rijal Almaa",
+      "score": 65.12313221176525,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.445493341079362,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.975,
+        "quality": 0.91
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 6.68240011619043,
+        "budget": 20.0,
+        "group": 9.75,
+        "quality": 4.55
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0026"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Both": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 22
+    },
+    {
+      "city": "Qilwah",
+      "score": 64.88622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.744
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 3.7199999999999998
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0294"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 23
+    },
+    {
+      "city": "Diriyah",
+      "score": 64.82669436472426,
+      "components": {
+        "category": 0.4841830343195809,
+        "hobby": 0.43088819623536045,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.9625,
+        "quality": 0.8999999999999999
+      },
+      "contributions": {
+        "category": 19.367321372783234,
+        "hobby": 4.308881962353604,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.625,
+        "quality": 4.5
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0009",
+        "1": "place_0010"
+      },
+      "available_count": 2,
+      "candidate_count": 2,
+      "category_distribution": {
+        "food & entertainment": 0.5,
+        "nature": 0.5
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 0.5,
+        "mid": 0.5
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 24
+    },
+    {
+      "city": "Shaqra",
+      "score": 64.61622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.95,
+        "quality": 0.79
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.5,
+        "quality": 3.95
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0014"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 25
+    },
+    {
+      "city": "Maqsna",
+      "score": 64.57029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.9500000000000001
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.75
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0073"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 26
+    },
+    {
+      "city": "Sharma",
+      "score": 64.51029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.938
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.6899999999999995
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0074"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 27
+    },
+    {
+      "city": "Al Majmaah",
+      "score": 64.36066619169505,
+      "components": {
+        "category": 0.47864172990451953,
+        "hobby": 0.478512883283402,
+        "environment": 0.4939912108453495,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.9375,
+        "quality": 0.729
+      },
+      "contributions": {
+        "category": 19.14566919618078,
+        "hobby": 4.785128832834021,
+        "environment": 7.409868162680243,
+        "budget": 20.0,
+        "group": 9.375,
+        "quality": 3.645
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0016",
+        "1": "place_0017"
+      },
+      "available_count": 2,
+      "candidate_count": 2,
+      "category_distribution": {
+        "cultural": 0.5,
+        "entertainment": 0.5
+      },
+      "environment_distribution": {
+        "Indoor": 0.5,
+        "Outdoor": 0.5
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 28
+    },
+    {
+      "city": "Qiyal",
+      "score": 64.32029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.9
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.5
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0081"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 29
+    },
+    {
+      "city": "Al Zulfi",
+      "score": 64.20635499204221,
+      "components": {
+        "category": 0.4762108926560985,
+        "hobby": 0.4672428256210844,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.95,
+        "quality": 0.792
+      },
+      "contributions": {
+        "category": 19.04843570624394,
+        "hobby": 4.672428256210844,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.5,
+        "quality": 3.96
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0018"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "entertainment": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 30
+    },
+    {
+      "city": "Samtah",
+      "score": 64.16313221176524,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.445493341079362,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.95,
+        "quality": 0.768
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 6.68240011619043,
+        "budget": 20.0,
+        "group": 9.5,
+        "quality": 3.84
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0311"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Both": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 31
+    },
+    {
+      "city": "Al-Badaya",
+      "score": 64.16029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8680000000000001
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.340000000000001
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0057"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 32
+    },
+    {
+      "city": "Dukhna",
+      "score": 64.06029382271731,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.848
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 10.0,
+        "quality": 4.24
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0058"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 33
+    },
+    {
+      "city": "Fifa",
+      "score": 63.91029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.96,
+        "quality": 0.898
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.6,
+        "quality": 4.49
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0303"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 34
+    },
+    {
+      "city": "Al Rayth",
+      "score": 63.900293822717316,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.95,
+        "quality": 0.916
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.5,
+        "quality": 4.58
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0035"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 35
+    },
+    {
+      "city": "Thadiq",
+      "score": 63.83622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.925,
+        "quality": 0.6839999999999999
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.25,
+        "quality": 3.42
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0019"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 36
+    },
+    {
+      "city": "Rumah",
+      "score": 63.81029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.95,
+        "quality": 0.898
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.5,
+        "quality": 4.49
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0020"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 37
+    },
+    {
+      "city": "Al Dawadmi",
+      "score": 63.76622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.925,
+        "quality": 0.6699999999999999
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.25,
+        "quality": 3.3499999999999996
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0021"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 38
+    },
+    {
+      "city": "Hotat Bani Tamim",
+      "score": 63.73622312516225,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.925,
+        "quality": 0.6639999999999999
+      },
+      "contributions": {
+        "category": 19.242902686117624,
+        "hobby": 4.897829409457196,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.25,
+        "quality": 3.3199999999999994
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0024"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "cultural": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 39
+    },
+    {
+      "city": "Al-Dayer",
+      "score": 63.68029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.95,
+        "quality": 0.872
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.5,
+        "quality": 4.36
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0306"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 40
+    },
+    {
+      "city": "Al Aflaj",
+      "score": 63.46325847393978,
+      "components": {
+        "category": 0.47471931789605115,
+        "hobby": 0.44789947285103077,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.925,
+        "quality": 0.744
+      },
+      "contributions": {
+        "category": 18.988772715842046,
+        "hobby": 4.478994728510307,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.25,
+        "quality": 3.7199999999999998
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0022",
+        "1": "place_0023"
+      },
+      "available_count": 2,
+      "candidate_count": 2,
+      "category_distribution": {
+        "cultural": 0.5,
+        "nature": 0.5
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 41
+    },
+    {
+      "city": "Al Namas",
+      "score": 63.43029382271732,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 0.95,
+        "quality": 0.822
+      },
+      "contributions": {
+        "category": 18.734642745566468,
+        "hobby": 4.06016004756342,
+        "environment": 7.025491029587426,
+        "budget": 20.0,
+        "group": 9.5,
+        "quality": 4.109999999999999
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0031"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "nature": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 42
+    },
+    {
+      "city": "Sharurah",
+      "score": 56.77350162706078,
+      "components": {
+        "category": 0.47971257420852403,
+        "hobby": 0.47522854069101694,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 0.6111111111111112,
+        "group": 0.95,
+        "quality": 0.817
+      },
+      "contributions": {
+        "category": 19.188502968340963,
+        "hobby": 4.752285406910169,
+        "environment": 7.025491029587426,
+        "budget": 12.222222222222223,
+        "group": 9.5,
+        "quality": 4.085
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0281",
+        "1": "place_0275"
+      },
+      "available_count": 2,
+      "candidate_count": 2,
+      "category_distribution": {
+        "adventure": 0.5,
+        "entertainment": 0.5
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "low": 0.5,
+        "mid": 0.5
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 43
+    },
+    {
+      "city": "Haql",
+      "score": 53.23361122504231,
+      "components": {
+        "category": 0.48321425576094956,
+        "hobby": 0.48321425576094956,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 0.3703703703703704,
+        "group": 1.0,
+        "quality": 0.928
+      },
+      "contributions": {
+        "category": 19.328570230437983,
+        "hobby": 4.832142557609496,
+        "environment": 7.025491029587426,
+        "budget": 7.407407407407408,
+        "group": 10.0,
+        "quality": 4.640000000000001
+      },
+      "supports_all_days": false,
+      "daily_anchor_ids": {
+        "0": "place_0082"
+      },
+      "available_count": 1,
+      "candidate_count": 1,
+      "category_distribution": {
+        "adventure": 1.0
+      },
+      "environment_distribution": {
+        "Outdoor": 1.0
+      },
+      "budget_distribution": {
+        "mid": 1.0
+      },
+      "group_compatible_fraction": 1.0,
+      "rank": 44
+    }
+  ],
+  "selected_destination": "Tabuk",
+  "selection_reason": "Cities with an affordable distinct visit for every requested day are considered first. Tabuk ranks first in its feasibility tier at 65.71/100. Weighted score contributions: category 19.31, hobby 4.69, environment 7.30, budget 20.00, group 10.00, quality 4.41. Inventory counts do not contribute to the score. Ties use city name alphabetically.",
+  "attraction_candidates": [
+    {
+      "ItemId": "place_0068",
+      "ItemType": "place",
+      "ItemName": "Tabuk Park Mall",
+      "ItemDescription": "The largest and most modern mall in Tabuk featuring international brands and a cinema.",
+      "Category": "urban",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 180.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.95",
+      "SuitableForInfants": "0.8",
+      "Latitude": 28.4287069,
+      "longitude": 36.5741763,
+      "MinAge": 0.0,
+      "MaxAge": 90.0,
+      "StartTime": "9:00",
+      "EndTime": "0:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.98,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "2",
+      "Temprature": "24",
+      "cluster_id": "cluster_tabuk_north",
+      "area_name": "Muruj Al-Amir",
+      "AvgRating": 4.4,
+      "TotalBookings": "28400.0",
+      "TotalFavorite": "7100.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_002",
+      "category": "urban",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 540,
+      "closes": 0,
+      "source_row": 70,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.5,
+        "hobby": 0.5,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.94
+      },
+      "score": 67.49424529577306
+    },
+    {
+      "ItemId": "place_0075",
+      "ItemType": "place",
+      "ItemName": "Al-Hokair Mall",
+      "ItemDescription": "Classic family mall featuring various local and international retailers.",
+      "Category": "urban",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 120.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "1",
+      "SuitableForInfants": "0.9",
+      "Latitude": 28.3947557,
+      "longitude": 36.5484368,
+      "MinAge": 0.0,
+      "MaxAge": 90.0,
+      "StartTime": "9:00",
+      "EndTime": "23:30",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.85,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "2",
+      "Temprature": "24",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Al-Salhiya",
+      "AvgRating": 3.8,
+      "TotalBookings": "11400.0",
+      "TotalFavorite": "2850.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_009",
+      "category": "urban",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 540,
+      "closes": 1410,
+      "source_row": 77,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.5,
+        "hobby": 0.5,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8140000000000001
+      },
+      "score": 66.86424529577305
+    },
+    {
+      "ItemId": "place_0069",
+      "ItemType": "place",
+      "ItemName": "Boulevard Tabuk",
+      "ItemDescription": "A modern outdoor lifestyle destination with premium dining and cafes.",
+      "Category": "urban",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 150.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.7",
+      "Latitude": 28.4320034,
+      "longitude": 36.5265615,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "16:00",
+      "EndTime": "2:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.95,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "6",
+      "Temprature": "22",
+      "cluster_id": "cluster_tabuk_west",
+      "area_name": "Al-Masif",
+      "AvgRating": 4.2,
+      "TotalBookings": "19200.0",
+      "TotalFavorite": "4800.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_003",
+      "category": "urban",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 960,
+      "closes": 120,
+      "source_row": 71,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.5,
+        "hobby": 0.5,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.9059999999999999
+      },
+      "score": 66.55549102958742
+    },
+    {
+      "ItemId": "place_0080",
+      "ItemType": "place",
+      "ItemName": "Tabuk Regional Museum",
+      "ItemDescription": "Archaeological museum displaying the rich history of the Tabuk region.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 90.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.8",
+      "Latitude": 28.3878143,
+      "longitude": 36.5619096,
+      "MinAge": 0.0,
+      "MaxAge": 90.0,
+      "StartTime": "9:00",
+      "EndTime": "19:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.91,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "2",
+      "Temprature": "24",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Cultural District",
+      "AvgRating": 4.7,
+      "TotalBookings": "5400.0",
+      "TotalFavorite": "1350.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_017",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 540,
+      "closes": 1140,
+      "source_row": 82,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.922
+      },
+      "score": 66.54497739134789
+    },
+    {
+      "ItemId": "place_0077",
+      "ItemType": "place",
+      "ItemName": "Hegjaz Railway Station",
+      "ItemDescription": "Museum documenting the history of the early 20th century rail line.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 60.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.85",
+      "SuitableForInfants": "0.5",
+      "Latitude": 28.3874572,
+      "longitude": 36.5617383,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "8:00",
+      "EndTime": "18:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.89,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "3",
+      "Temprature": "25",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Al-Aziziyah",
+      "AvgRating": 4.7,
+      "TotalBookings": "7600.0",
+      "TotalFavorite": "1900.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_014",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 480,
+      "closes": 1080,
+      "source_row": 79,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.91
+      },
+      "score": 66.48497739134788
+    },
+    {
+      "ItemId": "place_0072",
+      "ItemType": "place",
+      "ItemName": "Tabuk Castle",
+      "ItemDescription": "Historic castle serving as a museum of the region's long history.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Indoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 20.0,
+      "DurationMinutes": 60.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.6",
+      "Latitude": 28.3827152,
+      "longitude": 36.556315,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "8:00",
+      "EndTime": "20:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.9,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "mid",
+      "WetherSenstivity": "2",
+      "Temprature": "25",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Old Town",
+      "AvgRating": 4.6,
+      "TotalBookings": "9200.0",
+      "TotalFavorite": "2300.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_006",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Indoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 480,
+      "closes": 1200,
+      "source_row": 74,
+      "group_cost": 40.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.5196163530515373,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.908
+      },
+      "score": 66.47497739134788
+    },
+    {
+      "ItemId": "place_0085",
+      "ItemType": "place",
+      "ItemName": "Al-Amwaj Park Tabuk",
+      "ItemDescription": "Themed family park with rides and play areas.",
+      "Category": "urban",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 30.0,
+      "DurationMinutes": 180.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "1",
+      "SuitableForInfants": "0.8",
+      "Latitude": 28.3989543,
+      "longitude": 36.5760505,
+      "MinAge": 0.0,
+      "MaxAge": 60.0,
+      "StartTime": "16:00",
+      "EndTime": "23:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": false,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.83,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "mid",
+      "WetherSenstivity": "7",
+      "Temprature": "29",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Al-Faisaliyah",
+      "AvgRating": 4.1,
+      "TotalBookings": "7200.0",
+      "TotalFavorite": "1800.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_022",
+      "category": "urban",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 960,
+      "closes": 1380,
+      "source_row": 87,
+      "group_cost": 60.0,
+      "components": {
+        "category": 0.5,
+        "hobby": 0.5,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8259999999999998
+      },
+      "score": 66.15549102958742
+    },
+    {
+      "ItemId": "place_0078",
+      "ItemType": "place",
+      "ItemName": "Souq Al-Tawahin",
+      "ItemDescription": "Historic market selling spices, carpets, and heritage items.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 60.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.85",
+      "SuitableForInfants": "0.6",
+      "Latitude": 28.3821722,
+      "longitude": 36.5586715,
+      "MinAge": 0.0,
+      "MaxAge": 80.0,
+      "StartTime": "8:00",
+      "EndTime": "21:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.87,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "8",
+      "Temprature": "28",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Old Town",
+      "AvgRating": 4.3,
+      "TotalBookings": "6800.0",
+      "TotalFavorite": "1700.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_015",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 480,
+      "closes": 1260,
+      "source_row": 80,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.866
+      },
+      "score": 65.49622312516225
+    },
+    {
+      "ItemId": "place_0088",
+      "ItemType": "place",
+      "ItemName": "Souq Al-Haj",
+      "ItemDescription": "Seasonal heritage market on the historical pilgrim route.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 90.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.9",
+      "SuitableForInfants": "0.7",
+      "Latitude": 28.377432,
+      "longitude": 36.547731,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "16:00",
+      "EndTime": "23:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.85,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "8",
+      "Temprature": "27",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Old Town",
+      "AvgRating": 4.2,
+      "TotalBookings": "4200.0",
+      "TotalFavorite": "1050.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_026",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 960,
+      "closes": 1380,
+      "source_row": 90,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8460000000000001
+      },
+      "score": 65.39622312516225
+    },
+    {
+      "ItemId": "place_0079",
+      "ItemType": "place",
+      "ItemName": "Ain Al-Sukkar",
+      "ItemDescription": "Historical fresh water spring with Islamic history relevance.",
+      "Category": "cultural",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 30.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.8",
+      "SuitableForInfants": "0.5",
+      "Latitude": 28.3827377,
+      "longitude": 36.5562052,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "8:00",
+      "EndTime": "20:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.81,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "8",
+      "Temprature": "27",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Old Town",
+      "AvgRating": 4.2,
+      "TotalBookings": "3400.0",
+      "TotalFavorite": "850.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_016",
+      "category": "cultural",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 480,
+      "closes": 1200,
+      "source_row": 81,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.48107256715294056,
+        "hobby": 0.4897829409457196,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.8220000000000001
+      },
+      "score": 65.27622312516225
+    },
+    {
+      "ItemId": "place_0070",
+      "ItemType": "place",
+      "ItemName": "Jabal Al-Lawz",
+      "ItemDescription": "A high-altitude peak famous for its winter snowfall and historical importance.",
+      "Category": "nature",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 300.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "0.8",
+      "SuitableForInfants": "0.4",
+      "Latitude": 28.6460625,
+      "longitude": 35.286253,
+      "MinAge": 5.0,
+      "MaxAge": 75.0,
+      "StartTime": "7:00",
+      "EndTime": "17:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": false,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.96,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "10",
+      "Temprature": "5",
+      "cluster_id": "cluster_lawz",
+      "area_name": "Highlands",
+      "AvgRating": 4.4,
+      "TotalBookings": "12800.0",
+      "TotalFavorite": "3200.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_004",
+      "category": "nature",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 420,
+      "closes": 1020,
+      "source_row": 72,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.9279999999999999
+      },
+      "score": 64.46029382271732
+    },
+    {
+      "ItemId": "place_0076",
+      "ItemType": "place",
+      "ItemName": "Prince Fahd bin Sultan Park",
+      "ItemDescription": "Large green park with sea views and walking tracks.",
+      "Category": "nature",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 120.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "1",
+      "SuitableForInfants": "0.9",
+      "Latitude": 28.4330083,
+      "longitude": 36.5719551,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "0:00",
+      "EndTime": "23:59",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.91,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "7",
+      "Temprature": "26",
+      "cluster_id": "cluster_tabuk_west",
+      "area_name": "Al-Masif",
+      "AvgRating": 4.5,
+      "TotalBookings": "13400.0",
+      "TotalFavorite": "3350.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_013",
+      "category": "nature",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 0,
+      "closes": 1439,
+      "source_row": 78,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.906
+      },
+      "score": 64.35029382271732
+    },
+    {
+      "ItemId": "place_0084",
+      "ItemType": "place",
+      "ItemName": "King Abdulaziz Heritage Garden",
+      "ItemDescription": "Peaceful garden perfect for family walks and evening relaxation.",
+      "Category": "nature",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 120.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "1",
+      "SuitableForInfants": "0.9",
+      "Latitude": 28.4017633,
+      "longitude": 36.5692292,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "16:00",
+      "EndTime": "23:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.89,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "7",
+      "Temprature": "27",
+      "cluster_id": "cluster_tabuk_center",
+      "area_name": "Al-Mihrajan",
+      "AvgRating": 4.5,
+      "TotalBookings": "7900.0",
+      "TotalFavorite": "1975.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_021",
+      "category": "nature",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 960,
+      "closes": 1380,
+      "source_row": 86,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.894
+      },
+      "score": 64.29029382271732
+    },
+    {
+      "ItemId": "place_0083",
+      "ItemType": "place",
+      "ItemName": "Al-Murooj Park",
+      "ItemDescription": "Modern city park with green landscapes and walking paths.",
+      "Category": "nature",
+      "Activity_Indoor_Outdoor": "Outdoor",
+      "CityId": "tabuk",
+      "CityName": "Tabuk",
+      "Region": "Tabuk Region",
+      "Country": "Saudi Arabia",
+      "Price": 0.0,
+      "DurationMinutes": 90.0,
+      "SuitableForAdults": "1",
+      "SuitableForChildren": "1",
+      "SuitableForInfants": "0.9",
+      "Latitude": 28.4179165,
+      "longitude": 36.5862155,
+      "MinAge": 0.0,
+      "MaxAge": 85.0,
+      "StartTime": "16:00",
+      "EndTime": "0:00",
+      "AvailableDate": "5/13/2026",
+      "EndDate": "12/30/2026",
+      "IsFamilySuitable": true,
+      "IsSeniorsSuitable": true,
+      "IsActive": true,
+      "Is_year_Around": true,
+      "PopularityScore": 0.86,
+      "BudgetLevel": "low",
+      "SubBudgetLevel": "free",
+      "WetherSenstivity": "7",
+      "Temprature": "25",
+      "cluster_id": "cluster_tabuk_north",
+      "area_name": "Al-Murooj",
+      "AvgRating": 4.3,
+      "TotalBookings": "5800.0",
+      "TotalFavorite": "1450.0",
+      "CreatedAt": "5/13/2026",
+      "UpdatedAt": "5/13/2026",
+      "OldItemId": "tab_020",
+      "category": "nature",
+      "budget": "low",
+      "environment": "Outdoor",
+      "available_from": "2026-05-13",
+      "available_until": "2026-12-30",
+      "opens": 960,
+      "closes": 0,
+      "source_row": 85,
+      "group_cost": 0.0,
+      "components": {
+        "category": 0.46836606863916175,
+        "hobby": 0.4060160047563419,
+        "environment": 0.46836606863916175,
+        "explicit": 0.0,
+        "budget": 1.0,
+        "group": 1.0,
+        "quality": 0.86
+      },
+      "score": 64.12029382271733
+    }
+  ],
+  "validation": [
+    {
+      "check": "Destination",
+      "status": "PASS",
+      "detail": "All stops must belong to the automatically selected destination."
+    },
+    {
+      "check": "Group budget",
+      "status": "PASS",
+      "detail": "SAR 40.00 for 2 travelers; cap SAR 1000.00."
+    },
+    {
+      "check": "Group constraints",
+      "status": "PASS",
+      "detail": "Age range and requested family/senior constraints."
+    },
+    {
+      "check": "Active source records",
+      "status": "PASS",
+      "detail": "Inactive records cannot be scheduled."
+    },
+    {
+      "check": "No repeated activities",
+      "status": "PASS",
+      "detail": "Unique source IDs and normalized names."
+    },
+    {
+      "check": "Opening hours and transfer buffer",
+      "status": "PASS",
+      "detail": "09:00–22:00, 30-minute buffers, at most 3 stops/day."
+    },
+    {
+      "check": "Travel-date availability",
+      "status": "PASS",
+      "detail": "Every visit must fall within the source date interval."
+    },
+    {
+      "check": "Trip coverage",
+      "status": "PASS",
+      "detail": "9 of 9 target stops; constraints were not relaxed."
+    },
+    {
+      "check": "Daily coverage",
+      "status": "PASS",
+      "detail": "At least one visit on each day."
+    }
+  ]
+}

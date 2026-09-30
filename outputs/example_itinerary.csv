@@ -1,0 +1,10 @@
+﻿day,date,start,end,ItemId,ItemName,CityName,category,environment,Price,group_cost,DurationMinutes,score
+1,2026-06-01,09:00,12:00,place_0068,Tabuk Park Mall,Tabuk,urban,Indoor,0.0,0.0,180.0,67.49424529577306
+1,2026-06-01,12:30,14:30,place_0075,Al-Hokair Mall,Tabuk,urban,Indoor,0.0,0.0,120.0,66.86424529577305
+1,2026-06-01,15:00,16:30,place_0080,Tabuk Regional Museum,Tabuk,cultural,Indoor,0.0,0.0,90.0,66.54497739134789
+2,2026-06-02,16:00,18:30,place_0069,Boulevard Tabuk,Tabuk,urban,Outdoor,0.0,0.0,150.0,66.55549102958742
+2,2026-06-02,19:00,20:00,place_0072,Tabuk Castle,Tabuk,cultural,Indoor,20.0,40.0,60.0,66.47497739134788
+2,2026-06-02,20:30,22:00,place_0088,Souq Al-Haj,Tabuk,cultural,Outdoor,0.0,0.0,90.0,65.39622312516225
+3,2026-06-03,09:00,10:00,place_0077,Hegjaz Railway Station,Tabuk,cultural,Indoor,0.0,0.0,60.0,66.48497739134788
+3,2026-06-03,10:30,11:30,place_0078,Souq Al-Tawahin,Tabuk,cultural,Outdoor,0.0,0.0,60.0,65.49622312516225
+3,2026-06-03,12:00,17:00,place_0070,Jabal Al-Lawz,Tabuk,nature,Outdoor,0.0,0.0,300.0,64.46029382271732

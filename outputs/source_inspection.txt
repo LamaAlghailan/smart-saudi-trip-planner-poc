@@ -1,0 +1,323 @@
+DATA INSPECTION REPORT
+CSV shape: (821, 40)
+All columns: ['ItemId', 'ItemType', 'ItemName', 'ItemDescription', 'Category', 'Activity_Indoor_Outdoor', 'CityId', 'CityName', 'Region', 'Country', 'Price', 'DurationMinutes', 'SuitableForAdults', 'SuitableForChildren', 'SuitableForInfants', 'Latitude', 'longitude', 'MinAge', 'MaxAge', 'StartTime', 'EndTime', 'AvailableDate', 'EndDate', 'IsFamilySuitable', 'IsSeniorsSuitable', 'IsActive', 'Is_year_Around', 'PopularityScore', 'BudgetLevel', 'SubBudgetLevel', 'WetherSenstivity', 'Temprature', 'cluster_id', 'area_name', 'AvgRating', 'TotalBookings', 'TotalFavorite', 'CreatedAt', 'UpdatedAt', 'OldItemId']
+ItemId unique: 821 examples: ['place_0001', 'place_0002', 'place_0003', 'place_0004', 'place_0005']
+ItemType values: {"place": 257, "activity": 499, "Place": 65}
+ItemName unique: 725 examples: ['Al-Turaif District', 'Al Masmak Fortress', 'National Museum of Saudi Arabia', 'King Abdulaziz Historical Center', 'Wadi Namar']
+ItemDescription unique: 729 examples: ['UNESCO World Heritage historic district in Diriyah, known for Najdi mud-brick architecture and the origins of the Saudi state.', 'Historic fortress and museum in old Riyadh, strongly connected to the story of the unification of Saudi Arabia.', 'Major museum in Riyadh presenting Saudi history, archaeology, culture, and the story of the Arabian Peninsula.', 'Cultural complex in Al Murabba including museums, gardens, historic buildings, and public spaces.', 'Popular outdoor valley park in Riyadh with a lake, walking areas, greenery, and family picnic spots.']
+Category values: {"cultural": 96, "nature": 67, "adventure": 116, "entertainment": 375, "food & entertainment": 8, "family": 21, "leisure": 19, "urban": 7, "landmark": 2, "shopping": 24, "religious": 6, "sports": 1, "art": 1, "University": 1, "Museum": 5, "Culture": 3, "Historical Landmark": 4, "Entertainment": 3, "Historical District": 2, "Mosque": 1, "Historical Area": 1, "Archaeological Site": 2, "Cultural Center": 2, "Park": 6, "Shopping Mall": 12, "Visitor Center": 1, "Waterfront": 2, "Farm": 1, "Market": 4, "Island Park": 1, "Adventure": 3, "Beach": 3, "Marina": 1, "Island": 1, "Amusement Park": 2, "Mountain": 3, "Port": 1, "Historic District": 1, "Festival": 1, "Sports Venue": 1, "Tourism": 2, "Tourist Attraction": 1, "Zoo": 1, "National Park": 1, "Garden": 1, "education": 1, "historical": 2, "": 1}
+Activity_Indoor_Outdoor values: {"Outdoor": 402, "Both": 67, "Indoor": 352}
+CityId unique: 54 examples: ['diriyah', 'riyadh', 'alkharj', 'shaqra', 'ushaiger']
+CityName values: {"Diriyah": 3, "Riyadh": 487, "Al Kharj": 3, "Shaqra": 1, "Ushaiger": 1, "Al Majmaah": 2, "Al Zulfi": 1, "Thadiq": 1, "Rumah": 1, "Al Dawadmi": 1, "Al Aflaj": 2, "Hotat Bani Tamim": 1, "Abha": 5, "Rijal Almaa": 1, "Tanomah": 1, "Al Namas": 1, "Jazan": 17, "Farasan": 4, "Al Rayth": 1, "Najran": 23, "Al Baha": 13, "Baljurashi": 5, "Buraydah": 11, "Unaizah": 7, "Ar-Rass": 1, "Uyun Al-Jiwa": 2, "Al-Bukayriyah": 1, "Al-Mithnab": 1, "Al-Badaya": 1, "Dukhna": 1, "Tabuk Region": 2, "Tabuk": 19, "Al-Bad'": 1, "Maqsna": 1, "Sharma": 1, "Qiyal": 1, "Haql": 1, "Tayma": 1, "Jeddah": 25, "Madinah": 25, "AlUla": 25, "Al Jouf": 29, "Yanbu": 21, "Taif": 24, "Dammam": 5, "Al Khobar": 7, "Dhahran": 1, "Al Ahsa": 3, "Jubail": 3, "Ras Tanura": 1, "Hail": 15, "Sharurah": 2, "Al Makhwah": 4, "Qilwah": 1, "Fifa": 1, "Al-Dayer": 1, "Samtah": 1}
+Region values: {"Riyadh": 504, "Aseer": 8, "Jazan": 25, "Najran": 25, "Al Baha": 23, "Qassim": 25, "Tabuk Region": 27, "Makkah": 49, "Madinah": 71, "Al Jouf": 29, "Eastern Province": 20, "Hail Region": 15}
+Country values: {"Saudi Arabia": 821}
+Price unique: 152 examples: ['0.0', '90.0', '150.0', '15.0', '20.0']
+DurationMinutes values: {"150": 13, "90": 120, "120": 513, "240": 15, "180": 72, "75": 7, "60": 69, "45": 5, "300": 3, "30": 1, "360": 3}
+SuitableForAdults values: {"0.95": 552, "0.9": 44, "0.85": 11, "1": 67, "0.88": 9, "0.89": 17, "0.78": 3, "0.87": 3, "0.83": 3, "0.96": 8, "0.97": 10, "0.76": 2, "0.93": 9, "0.91": 4, "0.8": 4, "0.86": 4, "0.82": 2, "0.84": 2, "0.81": 1, "0.98": 5, "0.92": 21, "0.94": 8, "0.79": 3, "0.77": 1, "0.99": 8, "TRUE": 20}
+SuitableForChildren unique: 69 examples: ['0.75', '0.85', '0.9', '0.2', '0.65']
+SuitableForInfants unique: 52 examples: ['0.35', '0.65', '0.8', '0.75', '0.05']
+Latitude unique: 463 examples: ['24.7341', '24.6316', '24.6475', '24.647', '24.5521']
+longitude unique: 459 examples: ['24.7341', '46.7131', '46.7107', '46.71', '46.7062']
+MinAge values: {"6": 14, "0": 132, "15": 5, "10": 25, "5": 517, "16": 6, "8": 12, "14": 27, "3": 9, "12": 23, "18": 4, "16:00": 6, "15:00": 6, "8:00": 10, "9:00": 5, "10:00": 3, "7:00": 1, "5:00": 1, "6:00": 1, "14:00": 1, "17:00": 1, "2": 12}
+MaxAge values: {"75": 53, "80": 67, "60": 64, "65": 512, "70": 39, "55": 5, "85": 28, "90": 5, "1:00": 7, "23:00": 7, "21:00": 3, "0:00": 4, "22:00": 3, "18:00": 4, "16:00": 1, "20:00": 2, "12:00": 1, "11:00": 1, "9:00": 1, "19:00": 1, "50": 1, "12": 12}
+StartTime unique: 54 examples: ['17:00', '8:00', '9:00', '16:00', '14:00']
+EndTime unique: 66 examples: ['0:00', '21:00', '19:00', '20:00', '2:00']
+AvailableDate unique: 217 examples: ['2026-01-01', '1/1/2026', '5/13/2026', '5/13/2026 0:00', '12/31/2026']
+EndDate unique: 206 examples: ['12/30/2026', '8/16/2026', '7/31/2026', '7/28/2026', '6/30/2026']
+IsFamilySuitable values: {"TRUE": 780, "FALSE": 41}
+IsSeniorsSuitable values: {"TRUE": 692, "FALSE": 129}
+IsActive values: {"TRUE": 450, "0.98": 3, "0.99": 3, "0.95": 3, "0.89": 2, "0.93": 1, "0.94": 1, "0.84": 1, "0.88": 2, "0.92": 4, "0.91": 5, "0.96": 2, "0.85": 1, "0.87": 1, "0.97": 1, "0.9": 1, "0.82": 1, "0.77": 1, "0.83": 1, "0.86": 1, "FALSE": 336}
+Is_year_Around values: {"TRUE": 322, "FALSE": 464, "mid": 23, "high": 6, "low": 6}
+PopularityScore unique: 97 examples: ['0.95', '0.9', '0.92', '0.88', '0.84']
+BudgetLevel values: {"mid": 206, "low": 279, "high": 121, "moderate": 1, "0.7": 3, "0.68": 1, "0.9": 4, "0.82": 3, "0.62": 4, "0.64": 3, "0.76": 2, "0.72": 1, "0.77": 3, "0.94": 1, "0.66": 3, "0.73": 3, "0.65": 1, "0.57": 2, "0.6": 3, "0.78": 2, "0.86": 2, "0.83": 3, "0.85": 1, "0.56": 3, "0.69": 2, "0.61": 3, "0.74": 3, "0.81": 4, "0.59": 3, "0.75": 1, "0.88": 2, "0.58": 3, "0.91": 2, "0.67": 1, "0.92": 1, "0.95": 1, "0.79": 1, "5": 10, "7": 3, "1": 6, "4": 4, "2": 3, "8": 2, "9": 1, "6": 3, "10": 2, "3": 1, "luxury": 53, "free": 51}
+SubBudgetLevel values: {"high": 159, "free": 182, "mid": 239, "low": 152, "luxury": 54, "31": 4, "30": 2, "34": 1, "24": 8, "33": 3, "32": 3, "26": 1, "29": 1, "23": 4, "22": 4, "20": 1, "18": 1, "25": 1, "19": 1}
+WetherSenstivity unique: 51 examples: ['5', '4', '2', '10', '6']
+Temprature unique: 56 examples: ['26', '28', '25', '31', '30']
+cluster_id unique: 289 examples: ['cluster_diriyah', 'cluster_old_riyadh', 'cluster_murabba', 'cluster_south_riyadh', 'cluster_riyadh_desert']
+area_name unique: 356 examples: ['At-Turaif', 'Deerah', 'Al Murabba', 'Wadi Namar', 'Tuwaiq Escarpment']
+AvgRating unique: 98 examples: ['4.8', '4.7', '4.6', '4.5', '4.3']
+TotalBookings unique: 609 examples: ['18000.0', '16000.0', '21000.0', '15000.0', '19000.0']
+TotalFavorite unique: 714 examples: ['9500.0', '8200.0', '11000.0', '7600.0', '9000.0']
+CreatedAt unique: 563 examples: ['2026-05-11 22:04:51', '5/13/2026', '5/13/2026 0:00', '2700', '3112']
+UpdatedAt unique: 554 examples: ['2026-05-11 22:04:51', '5/13/2026', '5/13/2026 0:00', '12/14/2025 5:27', '1/10/2026 5:27']
+OldItemId unique: 756 examples: ['place_001', 'place_002', 'place_003', 'place_004', 'place_005']
+Missing values: {'ItemId': 0, 'ItemType': 0, 'ItemName': 0, 'ItemDescription': 0, 'Category': 1, 'Activity_Indoor_Outdoor': 0, 'CityId': 0, 'CityName': 0, 'Region': 0, 'Country': 0, 'Price': 0, 'DurationMinutes': 0, 'SuitableForAdults': 0, 'SuitableForChildren': 0, 'SuitableForInfants': 0, 'Latitude': 0, 'longitude': 0, 'MinAge': 0, 'MaxAge': 0, 'StartTime': 0, 'EndTime': 0, 'AvailableDate': 0, 'EndDate': 0, 'IsFamilySuitable': 0, 'IsSeniorsSuitable': 0, 'IsActive': 0, 'Is_year_Around': 0, 'PopularityScore': 0, 'BudgetLevel': 0, 'SubBudgetLevel': 0, 'WetherSenstivity': 0, 'Temprature': 0, 'cluster_id': 0, 'area_name': 0, 'AvgRating': 0, 'TotalBookings': 35, 'TotalFavorite': 35, 'CreatedAt': 35, 'UpdatedAt': 35, 'OldItemId': 0}
+Duplicate ItemIds: {}
+Categorical inconsistencies: ItemType has place/Place; category labels mix case and granularity; BudgetLevel has mid/moderate and numeric entries.
+CityName vs CityId distinct counts: 57 54
+Numeric profile: Price min 0.0 max 14500.0 negative 0 zero 348 non-numeric count 0 examples []
+Numeric profile: DurationMinutes min 30.0 max 360.0 negative 0 zero 0 non-numeric count 0 examples []
+Numeric profile: SuitableForAdults min 0.76 max 1.0 negative 0 zero 0 non-numeric count 20 examples ['TRUE']
+Numeric profile: SuitableForChildren min 0.1 max 1.0 negative 0 zero 0 non-numeric count 20 examples ['TRUE', 'FALSE']
+Numeric profile: SuitableForInfants min 0.0 max 0.9 negative 0 zero 474 non-numeric count 20 examples ['TRUE', 'FALSE']
+Numeric profile: Latitude min 0.0 max 31.3298264 negative 0 zero 20 non-numeric count 0 examples []
+Numeric profile: longitude min 24.7341 max 80.0 negative 0 zero 0 non-numeric count 0 examples []
+Numeric profile: MinAge min 0.0 max 18.0 negative 0 zero 132 non-numeric count 35 examples ['16:00', '15:00', '8:00', '9:00', '10:00']
+Numeric profile: MaxAge min 12.0 max 90.0 negative 0 zero 0 non-numeric count 35 examples ['1:00', '23:00', '21:00', '0:00', '22:00']
+Numeric profile: IsActive min 0.77 max 0.99 negative 0 zero 0 non-numeric count 786 examples ['TRUE', 'FALSE']
+Numeric profile: PopularityScore min 0.03 max 1.0 negative 0 zero 0 non-numeric count 110 examples ['TRUE', 'free', 'high', 'mid', 'low']
+Numeric profile: BudgetLevel min 0.56 max 10.0 negative 0 zero 0 non-numeric count 711 examples ['mid', 'low', 'high', 'moderate', 'luxury']
+Numeric profile: SubBudgetLevel min 18.0 max 34.0 negative 0 zero 0 non-numeric count 786 examples ['high', 'free', 'mid', 'low', 'luxury']
+Numeric profile: WetherSenstivity min 1.0 max 30.0 negative 0 zero 0 non-numeric count 110 examples ['high', 'mid', 'low', 'luxury', 'cluster_dammam_corniche']
+Numeric profile: Temprature min 2.0 max 34.0 negative 0 zero 0 non-numeric count 35 examples ['Corniche Area', 'Khobar Waterfront', 'Marjan Island', 'Half Moon Bay', 'Dhahran Center']
+Numeric profile: cluster_id min 24.0 max 30.0 negative 0 zero 0 non-numeric count 746 examples ['cluster_diriyah', 'cluster_old_riyadh', 'cluster_murabba', 'cluster_south_riyadh', 'cluster_riyadh_desert']
+Numeric profile: AvgRating min 3.5 max 39000.0 negative 0 zero 0 non-numeric count 75 examples ['Jeddah Corniche', 'Al Hamra', 'Historic Jeddah', 'Jeddah Waterfront', 'North Corniche']
+Numeric profile: TotalBookings min 0.0 max 95000.0 negative 0 zero 12 non-numeric count 35 examples ['']
+Numeric profile: TotalFavorite min 0.0 max 38000.0 negative 0 zero 12 non-numeric count 35 examples ['']
+Numeric profile: CreatedAt min 512.0 max 11573.0 negative 0 zero 0 non-numeric count 746 examples ['2026-05-11 22:04:51', '5/13/2026', '5/13/2026 0:00', '5/13/2026 6:33', '5/13/2026 10:51']
+Anomaly interpretation: time strings in ages, budget labels in booleans, numeric budgets, text or >5 ratings, and cluster/area text in weather columns indicate shifted data. Do not auto-realign.
+Price maximum 14,500 is a review candidate, not proof of error. Coordinate bounds and date consistency are checked in the derived quality audit.
+WVS sheet names: ['SUMMARY', 'HOBBY_RESULTS', 'CATEGORY_RESULTS', 'ENVIRONMENT_RESULTS', 'STATISTICAL_EFFECTS']
+
+SHEET SUMMARY rows: 7
+HEAD: [["Metric", "Value"], ["Total respondents", "97220"], ["Valid Q266 respondents", "93440"], ["Missing/invalid Q266", "3780"]]
+
+SHEET HOBBY_RESULTS rows: 1369
+HEAD: [["Birth Country", "ISO3", "Hobby", "WVS-Derived Signal (%)", "Global Baseline (%)", "Relative vs Global (pp)", "Raw N", "Effective N", "Question Coverage (%)", "Eligible for Ranking", "Country Rank"], ["Afghanistan", "AFG", "Hiking", "34.1860022466388", "42.405773828216084", "-8.21977158157729", "6", "5.358824287699076", "81.81818181818181", "FALSE", ""], ["Afghanistan", "AFG", "Beach & Water Activities", "28.68130897276686", "33.394007740029444", "-4.71269876726258", "6", "5.358824287699076", "98.23894234664317", "FALSE", ""], ["Afghanistan", "AFG", "Enjoying Nature", "31.011120586160914", "35.73461929121802", "-4.723498705057105", "6", "5.358824287699076", "95.97472536375582", "FALSE", ""]]
+Birth Country unique: 152 values/examples: {'Afghanistan': 9, 'Angola': 9, 'Albania': 9, 'Andorra': 9, 'United Arab Emirates': 9, 'Argentina': 9, 'Armenia': 9, 'American Samoa': 9, 'Antigua and Barbuda': 9, 'Australia': 9, 'Austria': 9, 'Azerbaijan': 9}
+Eligible for Ranking unique: 2 values/examples: {'FALSE': 765, 'TRUE': 603}
+Country Rank unique: 68 values/examples: {'': 765, '38': 9, '47': 9, '29': 9, '42': 9, '59': 9, '63': 9, '54': 9, '61': 9, '53': 9, '45': 9, '55': 9}
+
+SHEET CATEGORY_RESULTS rows: 1521
+HEAD: [["Birth Country", "ISO3", "Category", "WVS-Derived Signal (%)", "Global Baseline (%)", "Relative vs Global (pp)", "Raw N", "Effective N", "Question Coverage (%)", "Eligible for Ranking", "Country Rank"], ["Afghanistan", "AFG", "Adventure", "34.1860022466388", "42.405773828216084", "-8.21977158157729", "6", "5.358824287699076", "81.81818181818181", "FALSE", ""], ["Afghanistan", "AFG", "Beach", "28.68130897276686", "33.394007740029444", "-4.71269876726258", "6", "5.358824287699076", "98.23894234664317", "FALSE", ""], ["Afghanistan", "AFG", "Cultural", "41.75830982767031", "47.37225820379564", "-5.613948376125327", "6", "5.358824287699076", "91.40884612268546", "FALSE", ""]]
+Birth Country unique: 152 values/examples: {'Afghanistan': 10, 'Angola': 10, 'Albania': 10, 'Andorra': 10, 'United Arab Emirates': 10, 'Argentina': 10, 'Armenia': 10, 'American Samoa': 10, 'Antigua and Barbuda': 10, 'Australia': 10, 'Austria': 10, 'Azerbaijan': 10}
+Eligible for Ranking unique: 2 values/examples: {'FALSE': 850, 'TRUE': 670}
+Country Rank unique: 68 values/examples: {'': 850, '38': 10, '47': 10, '61': 10, '59': 10, '54': 10, '63': 10, '32': 10, '53': 10, '45': 10, '50': 10, '48': 10}
+
+SHEET ENVIRONMENT_RESULTS rows: 457
+HEAD: [["Birth Country", "ISO3", "Environment", "WVS-Derived Signal (%)", "Global Baseline (%)", "Relative vs Global (pp)", "Raw N", "Effective N", "Question Coverage (%)", "Eligible for Ranking", "Country Rank"], ["Afghanistan", "AFG", "Indoor", "44.47308004244164", "51.19693533673506", "-6.723855294293424", "6", "5.358824287699076", "81.97519204282638", "FALSE", ""], ["Afghanistan", "AFG", "Outdoor", "33.141907086522004", "41.626029688512666", "-8.484122601990663", "6", "5.358824287699076", "82.15929489776211", "FALSE", ""], ["Afghanistan", "AFG", "Both", "37.10282440819969", "44.05914438263995", "-6.956319974440267", "6", "5.358824287699076", "85.55133753522769", "FALSE", ""]]
+Birth Country unique: 152 values/examples: {'Afghanistan': 3, 'Angola': 3, 'Albania': 3, 'Andorra': 3, 'United Arab Emirates': 3, 'Argentina': 3, 'Armenia': 3, 'American Samoa': 3, 'Antigua and Barbuda': 3, 'Australia': 3, 'Austria': 3, 'Azerbaijan': 3}
+Eligible for Ranking unique: 2 values/examples: {'FALSE': 255, 'TRUE': 201}
+Country Rank unique: 68 values/examples: {'': 255, '48': 3, '32': 3, '63': 3, '57': 3, '55': 3, '43': 3, '15': 3, '41': 3, '35': 3, '31': 3, '11': 3}
+
+SHEET STATISTICAL_EFFECTS rows: 10
+HEAD: [["Hobby", "Eta Squared", "Omega Squared", "ICC"], ["Festivals & Theme Parks", "0.15603624262755772", "0.1546686204436205", "0.1569388797197871"], ["Guided Heritage Tours", "0.12795667283224404", "0.12654381134198261", "0.12846398467949652"], ["Luxury Dining", "0.12725514166188634", "0.12584116530237305", "0.12775221962099995"]]
+Evidence/quality fields: Raw N, Effective N, Question Coverage (%), Global Baseline (%), Relative vs Global (pp).
+Ranking fields: Eligible for Ranking, Country Rank. 67 eligible and 85 ineligible country groups in supplied workbook.
+STATISTICAL_EFFECTS diagnostics: Eta Squared, Omega Squared, ICC. Phase 1 Semantic Weight and Evidence Tier fields are not supplied in this workbook.
+
+SOURCE DOCUMENT TEXT
+WVS Tourism National Behavioral Pattern 
+Phase 1 & Phase 2
+From WVS question selection and Hobby scoring to Birth-Country behavioral patterns
+Project Overview
+The project builds an explainable behavioral prior that can support tourism recommendations when a new user has little or no personal history. The result is intended as a weak cold-start signal, not as a statement that every person from the same country has the same preferences.
+Stage
+What was done
+Phase 1
+Review WVS questions, select tourism-relevant signals, map questions to Survey Q4 Hobbies, and define transparent answer scoring.
+Phase 2
+Apply the Phase 1 rules to actual WVS respondents, group results by Q266 Country of Birth, apply W_WEIGHT, and calculate Birth-Country Hobby / Category / Environment patterns.
+Key Project Numbers
+Metric
+Result
+WVS respondents
+97,220
+Valid Q266 respondents
+93,440
+Valid Birth-Country proxies
+152
+WVS questions reviewed
+313
+Tourism-relevant questions selected
+50
+Unique questions used in Hobby mapping
+37
+Question × Hobby relationships
+101
+Tourism Hobbies
+9
+Important: Q266 is Country of Birth. In this project it is treated as a Birth-Country / nationality proxy, not as confirmed legal nationality.
+Files Used to Review the Work
+The two Excel files below contain the detailed tables behind this document. The document explains the full logic; the Excel files are used when a detailed row-level check is needed.
+File
+Where to look
+Purpose
+WVS_Phase1_Question_Hobby_Scoring.xlsx
+QUESTION_HOBBY_SCORING
+Every Question × Hobby relationship, full WVS wording, Semantic Weight, answer scoring, and rationale.
+WVS_Phase1_Question_Hobby_Scoring.xlsx
+ALL_50_QUESTIONS
+The 50 selected tourism-relevant WVS questions shown once each.
+WVS_Phase1_Question_Hobby_Scoring.xlsx
+QUESTION_HOBBY_MATRIX
+Question × Hobby weight matrix used for the mapping heatmap.
+WVS_Phase2_BirthCountry_Pattern_Results.xlsx
+HOBBY_RESULTS
+Final Birth-Country × Hobby signals, global baseline, relative signal, sample information, and ranking eligibility.
+WVS_Phase2_BirthCountry_Pattern_Results.xlsx
+CATEGORY_RESULTS / ENVIRONMENT_RESULTS
+Category and Indoor / Outdoor / Both results.
+WVS_Phase2_BirthCountry_Pattern_Results.xlsx
+STATISTICAL_EFFECTS
+Eta Squared, Omega Squared, and ICC checks for Hobby-level country-group differences.
+Phase 1 — Question Selection and Tourism Mapping
+The WVS questionnaire was not treated as a tourism survey. Questions were first audited for behavioral relevance. A question was retained only when its meaning could reasonably support a tourism-related behavioral construct. Politically specific, sensitive, or unsupported relationships were not used as Hobby evidence.
+313 WVS questions were reviewed.
+50 questions were retained as tourism-relevant.
+37 unique questions were used in direct Question × Hobby mappings.
+Those 37 questions produced 101 Question × Hobby relationships because one question can support more than one Hobby.
+Detailed data: WVS_Phase1_Question_Hobby_Scoring.xlsx  →  ALL_50_QUESTIONS — full list of the 50 selected questions without Hobby-level repetition.
+Question counts are based on the audited Phase 1 Question × Hobby mapping.
+Important: Question count is coverage, not evidence quality. Semantic Weight and Evidence Tier are also required to understand how strongly each question supports a Hobby.
+Question × Hobby Mapping
+The main Phase 1 unit is one WVS Question × one Hobby relationship. The same WVS question may appear under several Hobbies, and each relationship can have a different Semantic Weight. This repetition is intentional, not a duplicate-data error.
+Rows = WVS questions. Columns = Survey Q4 Hobbies. Cell value = Semantic Relevance Weight.
+Detailed data: WVS_Phase1_Question_Hobby_Scoring.xlsx  →  QUESTION_HOBBY_MATRIX — complete numerical matrix used for this heatmap.
+Important: This is a mapping heatmap, not a confusion matrix. A confusion matrix requires predicted labels and ground-truth labels.
+Example — Q95 Mapping and Answer Scoring
+Q95 is a useful example because it shows both parts of the scoring design: the relationship between the question and each Hobby, and the evidence produced by the respondent answer.
+Item
+Actual value
+WVS Question
+Q95 — Sport or recreational organization, football/baseball/rugby team membership
+Behavioral Construct
+Active Recreation Participation
+Hiking
+Semantic Weight 0.75 — Tier B
+Beach & Water Activities
+Semantic Weight 0.75 — Tier B
+National Parks
+Semantic Weight 0.75 — Tier B
+Enjoying Nature
+Semantic Weight 0.50 — Tier C
+The Semantic Weight answers: “How strongly does this question relate to this Hobby?” It is not the respondent score.
+Q95 Answer
+Response Evidence Score
+0 — Don't belong
+0.00
+1 — Inactive member
+0.50
+2 — Active member
+1.00
+Technical missing codes
+Excluded / NaN
+Detailed data: WVS_Phase1_Question_Hobby_Scoring.xlsx  →  QUESTION_HOBBY_SCORING — full question wording, weight, tier, response scoring, and mapping rationale for every Hobby relationship.
+Scoring Method
+The scoring keeps two concepts separate: Question-to-Hobby relevance and respondent answer evidence.
+Question Coverage by Hobby
+The chart below shows how many WVS questions support each tourism Hobby in the approved Phase 1 mapping. It measures mapping coverage, not the strength of the final Hobby preference.
+Important: these counts are Question × Hobby relationships. The same WVS question may support more than one Hobby, so the counts across Hobbies should not be interpreted as the number of unique WVS questions.
+Concept
+Meaning
+Semantic Relevance Weight
+Strength of the Question → Hobby relationship.
+Response Evidence Score
+Normalized 0–1 evidence produced by the respondent answer.
+Question Contribution
+Response Evidence Score × Semantic Relevance Weight.
+Question Contribution = Response Evidence Score × Semantic Relevance Weight
+Respondent Hobby Score = Σ Valid Question Contributions ÷ Σ Weights of Valid Answered Questions
+Important: Missing / refused / not asked responses are excluded from the numerator and denominator. Missing answer does not mean zero preference.
+Applying the Rules to WVS Respondents
+Step
+Action
+1
+Calculate Hobby scores for each respondent using the Phase 1 rules.
+2
+Read Q266 and map it to canonical Birth Country + ISO2 + ISO3.
+3
+Group respondents by Q266 Country of Birth.
+4
+Apply W_WEIGHT during aggregation.
+5
+Calculate Hobby, Category, and Environment signals.
+6
+Compare each Birth-Country score with the global WVS baseline.
+Detailed data: WVS_Phase2_BirthCountry_Pattern_Results.xlsx  →  HOBBY_RESULTS — country-level Hobby outputs with signal, global baseline, relative score, sample size, coverage, and eligibility.
+What the Birth-Country Pattern Represents
+The final pattern is a vector across the 9 Hobbies rather than one label for a country. The same approach is also calculated for Categories and Indoor / Outdoor / Both.
+Measure
+Interpretation
+WVS-Derived Signal
+Absolute 0–100 display of the aggregated Hobby signal.
+Global Baseline
+Overall WVS weighted baseline for the same Hobby.
+Relative vs Global
+Country signal − global signal. This is the main measure of what is distinctive.
+Quality fields
+Raw N, Effective N, Question Coverage, and Ranking Eligibility.
+How to Read the Environment Results
+Each row in the Environment results represents one Birth Country × Environment result. Birth Country is derived from Q266, while ISO3 provides the standardized country code used for consistent identification across outputs. Environment identifies whether the derived signal relates to Indoor, Outdoor, or Both activities. WVS-Derived Signal (%) is the final weighted environment score for that Birth-Country group, while Global Baseline (%) is the overall weighted WVS reference score for the same environment. Relative vs Global (pp) is calculated as the country signal minus the global baseline, showing how far the group is above or below the overall WVS reference in percentage points. Raw N, Effective N, and Question Coverage (%) describe the amount and quality of evidence supporting the result. Eligible for Ranking indicates whether the row meets the project's defined quality requirements for comparison, and Country Rank shows its position among eligible Birth-Country groups for the same environment.
+Detailed data: WVS_Phase2_BirthCountry_Pattern_Results.xlsx  →  ENVIRONMENT_RESULTS — Birth-Country × Environment signals, global baseline, relative signal, evidence-quality fields, eligibility, and ranking.
+Relative-to-global Hobby pattern for a readable subset of eligible Birth-Country groups. Full results contain all 152 valid Birth-Country proxies.
+Important: A score such as 48% is a WVS-derived signal. It does not mean that 48% of people from that country literally prefer the Hobby.
+Real Result Example — India
+Absolute WVS-derived Hobby signals for Q266 Birth Country = India.
+Metric
+Actual result
+Raw sample size
+1,873
+Effective sample size
+1,573
+Highest absolute Hobby
+Museums & Exhibitions — 53.9%
+Most distinctive relative signal
+Enjoying Nature — +6.0 pp vs global
+Hiking relative signal
++5.7 pp vs global
+Hiking question coverage
+87.2%
+This example shows why absolute and relative scores should be read together. Museums & Exhibitions is the highest absolute signal, while Enjoying Nature and Hiking are more distinctive relative to their global baselines.
+Detailed data: WVS_Phase2_BirthCountry_Pattern_Results.xlsx  →  HOBBY_RESULTS — filter ISO3 = IND to inspect the exact rows behind this example.
+Statistical Check — Are the Group Differences Measurable?
+A visible heatmap difference is not enough by itself. Phase 2 also compares between-group and within-group variation. Eta Squared, Omega Squared, and ICC are retained as statistical diagnostics.
+Eta Squared by Hobby. Higher values indicate stronger association between Q266 group membership and variation in that derived Hobby signal.
+Hobby
+Eta²
+Omega²
+ICC
+Festivals & Theme Parks
+0.156
+0.155
+0.157
+Guided Heritage Tours
+0.128
+0.127
+0.128
+Luxury Dining
+0.127
+0.126
+0.128
+Shopping & Malls
+0.093
+0.092
+0.093
+Museums & Exhibitions
+0.091
+0.090
+0.091
+Important: Effect size shows association with Birth-Country grouping. It does not show that Country of Birth causes the preference.
+Detailed data: WVS_Phase2_BirthCountry_Pattern_Results.xlsx  →  STATISTICAL_EFFECTS — complete Hobby-level Eta², Omega², and ICC values.
+Important Limitations
+Limitation
+What it means
+Q266
+Country of Birth, not confirmed legal nationality.
+WVS
+A behavioral/value survey, not a direct tourism-preference survey.
+Hobby signal
+An inferred behavioral score, not a literal population percentage.
+Semantic weights
+Transparent and auditable, but not yet calibrated against real Survey ground truth.
+Individual variation
+People within the same Birth-Country group can differ substantially.
+Next Step
+The next step is validation against real Survey responses. The WVS-derived Hobby / Category / Environment signals can then be compared with explicit user choices, the semantic weights can be calibrated, and the appropriate cold-start weight can be determined empirically before recommendation-system integration.
+Current stage
+Status
+Question selection and Question → Hobby mapping
+Complete
+Respondent scoring and Birth-Country pattern calculation
+Complete
+Survey validation
+Next
+Weight calibration
+Future after validation
+Recommendation-system integration
+Future
+
+SOURCE SHA256
+items.csv 30b0168f535bf17d67d19dc41d01bab1a7223ef415bb920c3ddf24978c7dfcb4
+WVS_Phase2_BirthCountry_Pattern_Results.xlsx c013770d5b91e0fa371f29c9e304f67dbc4ff78de458b700bfe90343c43c0897
+WVS_Tourism_Behavioral_Pattern_Phase1_Phase2.docx e37494feb764ad45ce7dd141e5ce24f74220a08c97ea38ba4e9f9b3e17a203a6

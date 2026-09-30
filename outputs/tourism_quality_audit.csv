@@ -1,0 +1,822 @@
+﻿source_row,ItemId,ItemName,CityName,eligible,active,issues,raw_category,normalized_category,raw_budget,normalized_budget,unknown_available_from,unknown_available_until,reversed_date_range,boolean_like_date,year_round
+2,place_0001,Al-Turaif District,Diriyah,False,True,invalid_longitude,cultural,cultural,mid,mid,False,False,False,False,True
+3,place_0002,Al Masmak Fortress,Riyadh,True,True,,cultural,cultural,low,low,False,False,False,False,True
+4,place_0003,National Museum of Saudi Arabia,Riyadh,True,True,,cultural,cultural,low,low,False,False,False,False,True
+5,place_0004,King Abdulaziz Historical Center,Riyadh,True,True,,cultural,cultural,low,low,False,False,False,False,True
+6,place_0005,Wadi Namar,Riyadh,True,True,,nature,nature,low,low,False,False,False,False,True
+7,place_0006,Edge of the World,Riyadh,True,True,,adventure,adventure,low,low,False,False,False,False,False
+8,place_0007,JAX District,Riyadh,True,True,,cultural,cultural,low,low,False,False,False,False,True
+9,place_0008,Boulevard Riyadh City,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,False
+10,place_0009,Bujairi Terrace,Diriyah,True,True,,food & entertainment,food & entertainment,mid,mid,False,False,False,False,True
+11,place_0010,Wadi Hanifah,Diriyah,True,True,,nature,nature,low,low,False,False,False,False,True
+12,place_0011,King Abdulaziz Park,Al Kharj,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+13,place_0012,Ain Al-Dila,Al Kharj,True,True,,nature,nature,low,low,False,False,False,False,True
+14,place_0013,Al Kharj Museum,Al Kharj,True,True,,cultural,cultural,low,low,False,False,False,False,True
+15,place_0014,Shaqra Heritage Area,Shaqra,True,True,,cultural,cultural,low,low,False,False,False,False,True
+16,place_0015,Ushaiger Heritage Village,Ushaiger,True,True,,cultural,cultural,low,low,False,False,False,False,True
+17,place_0016,Al Majmaah Museum,Al Majmaah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+18,place_0017,Al Majmaah Walkway,Al Majmaah,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+19,place_0018,Zulfi Lake Park,Al Zulfi,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+20,place_0019,Thadiq Heritage Area,Thadiq,True,True,,cultural,cultural,low,low,False,False,False,False,True
+21,place_0020,Rawdat Khuraim,Rumah,True,True,,nature,nature,low,low,False,False,False,False,False
+22,place_0021,Al Dawadmi Heritage Area,Al Dawadmi,True,True,,cultural,cultural,low,low,False,False,False,False,True
+23,place_0022,Al Aflaj Oasis,Al Aflaj,True,True,,nature,nature,low,low,False,False,False,False,False
+24,place_0023,Al Aflaj Historical Sites,Al Aflaj,True,True,,cultural,cultural,low,low,False,False,False,False,True
+25,place_0024,Hotat Bani Tamim Heritage Area,Hotat Bani Tamim,True,True,,cultural,cultural,low,low,False,False,False,False,True
+26,act_0001,High City Walk,Abha,True,True,,nature,nature,low,low,False,False,False,False,True
+27,place_0025,Al Soudah Park,Abha,True,True,,nature,nature,low,low,False,False,False,False,True
+28,place_0026,Rijal Almaa Heritage Village,Rijal Almaa,True,True,,cultural,cultural,low,low,False,False,False,False,True
+29,place_0027,Abu Kheyal Park,Abha,True,True,,family,family,mid,mid,False,False,False,False,True
+30,place_0028,Abha Cable Car Experience,Abha,True,True,,adventure,adventure,mid,mid,False,False,False,False,False
+31,place_0029,Al Habala Village,Abha,True,True,,cultural,cultural,low,low,False,False,False,False,True
+32,place_0030,Tanomah Hiking Trail,Tanomah,True,True,,adventure,adventure,low,low,False,False,False,False,True
+33,place_0031,Al Namas Viewpoint,Al Namas,True,True,,nature,nature,low,low,False,False,False,False,True
+34,place_0032,Jazan Corniche Walk,Jazan,True,True,,leisure,leisure,low,low,False,False,False,False,True
+35,place_0033,Farasan Islands Trip,Farasan,True,True,,nature,nature,high,high,False,False,False,False,True
+36,place_0034,Farasan Boat Tour,Farasan,True,True,,adventure,adventure,high,high,False,False,False,False,False
+37,place_0035,Wadi Lajab Visit,Al Rayth,True,True,,nature,nature,low,low,False,False,False,False,False
+38,place_0036,Emarah Historical Palace,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+39,place_0037,Al Ukhdood Archaeological Site,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+40,place_0038,Najran Traditional Market Tour,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+41,place_0039,Al Baha Forest Park,Al Baha,True,True,,nature,nature,low,low,False,False,False,False,True
+42,place_0040,Thee Ain Heritage Village,Al Baha,True,True,,cultural,cultural,low,low,False,False,False,False,True
+43,place_0041,Baljurashi Mountain Drive,Baljurashi,True,True,,leisure,leisure,low,low,False,False,False,False,True
+44,place_0042,Al-Uqailat Museum,Buraydah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+45,place_0043,Al-Musawkaf Market,Unaizah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+46,place_0044,Al-Shananah Heritage Tower,Ar-Rass,True,True,,cultural,cultural,low,low,False,False,False,False,True
+47,place_0045,Antarah Bin Shaddad Rock,Uyun Al-Jiwa,True,True,,cultural,cultural,low,low,False,False,False,False,True
+48,place_0046,Al-Bassam Heritage House,Unaizah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+49,place_0047,King Khalid Wildlife Park,Buraydah,True,True,,nature,nature,low,low,False,False,False,False,True
+50,place_0048,Al-Hajeb Parks,Unaizah,True,True,,nature,nature,low,low,False,False,False,False,True
+51,place_0049,As-Suwaylim Heritage Mansion,Al-Bukayriyah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+52,place_0050,Buraydah Water Tower,Buraydah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+53,place_0051,Al-Jarad Heritage Market,Buraydah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+54,place_0052,Al-Mithnab Heritage Village,Al-Mithnab,True,True,,cultural,cultural,low,low,False,False,False,False,True
+55,place_0053,Al-Aoshaziyah Lake,Unaizah,True,True,,nature,nature,low,low,False,False,False,False,True
+56,place_0054,Al-Nakheel Mall Buraydah,Buraydah,True,True,,urban,urban,low,low,False,False,False,False,True
+57,place_0055,Uneyzah Mall,Unaizah,True,True,,urban,urban,low,low,False,False,False,False,True
+58,place_0056,Al-Bassr Garden Park,Buraydah,True,True,,nature,nature,low,low,False,False,False,False,True
+59,place_0057,Kingdom Park Al-Badaya,Al-Badaya,True,True,,nature,nature,low,low,False,False,False,False,True
+60,place_0058,Khuzaz Park Dukhna,Dukhna,True,True,,nature,nature,low,low,False,False,False,False,True
+61,place_0059,Uyun Al-Jiwa Heritage Village,Uyun Al-Jiwa,True,True,,cultural,cultural,low,low,False,False,False,False,True
+62,place_0060,Garden of Al-Montazah,Buraydah,True,True,,nature,nature,low,low,False,False,False,False,True
+63,place_0061,Al-Faiha Garden,Buraydah,True,True,,nature,nature,low,low,False,False,False,False,True
+64,place_0062,Buraydah Museum,Buraydah,False,True,invalid_opening_hours,cultural,cultural,low,low,False,False,False,False,True
+65,place_0063,Buraydah Date Market,Buraydah,False,True,invalid_opening_hours,cultural,cultural,low,low,False,False,False,False,True
+66,place_0064,King Abdullah National Park,Buraydah,False,True,invalid_opening_hours,nature,nature,low,low,False,False,False,False,True
+67,place_0065,Onaizah National Park,Unaizah,False,True,invalid_opening_hours,nature,nature,low,low,False,False,False,False,True
+68,place_0066,Almatar Park Unaizah,Unaizah,False,True,invalid_opening_hours,nature,nature,low,low,False,False,False,False,True
+69,place_0067,Catalina Seaplane Wreckage,Tabuk Region,True,True,,cultural,cultural,low,low,False,False,False,False,True
+70,place_0068,Tabuk Park Mall,Tabuk,True,True,,urban,urban,low,low,False,False,False,False,True
+71,place_0069,Boulevard Tabuk,Tabuk,True,True,,urban,urban,low,low,False,False,False,False,True
+72,place_0070,Jabal Al-Lawz,Tabuk,True,True,,nature,nature,low,low,False,False,False,False,True
+73,place_0071,Magha'er Shuaib,Al-Bad',True,True,,cultural,cultural,low,low,False,False,False,False,True
+74,place_0072,Tabuk Castle,Tabuk,True,True,,cultural,cultural,low,low,False,False,False,False,True
+75,place_0073,Tayyib Al-Ism,Maqsna,True,True,,nature,nature,low,low,False,False,False,False,True
+76,place_0074,Sharma Beach,Sharma,True,True,,nature,nature,low,low,False,False,False,False,True
+77,place_0075,Al-Hokair Mall,Tabuk,True,True,,urban,urban,low,low,False,False,False,False,True
+78,place_0076,Prince Fahd bin Sultan Park,Tabuk,True,True,,nature,nature,low,low,False,False,False,False,True
+79,place_0077,Hegjaz Railway Station,Tabuk,True,True,,cultural,cultural,low,low,False,False,False,False,True
+80,place_0078,Souq Al-Tawahin,Tabuk,True,True,,cultural,cultural,low,low,False,False,False,False,True
+81,place_0079,Ain Al-Sukkar,Tabuk,True,True,,cultural,cultural,low,low,False,False,False,False,True
+82,place_0080,Tabuk Regional Museum,Tabuk,True,True,,cultural,cultural,low,low,False,False,False,False,True
+83,place_0081,Qiyal Beach,Qiyal,True,True,,nature,nature,low,low,False,False,False,False,True
+84,place_0082,Haqal Marine Center,Haql,True,True,,adventure,adventure,moderate,mid,False,False,False,False,True
+85,place_0083,Al-Murooj Park,Tabuk,True,True,,nature,nature,low,low,False,False,False,False,True
+86,place_0084,King Abdulaziz Heritage Garden,Tabuk,True,True,,nature,nature,low,low,False,False,False,False,True
+87,place_0085,Al-Amwaj Park Tabuk,Tabuk,True,True,,urban,urban,low,low,False,False,False,False,True
+88,place_0086,Bir Haddaj,Tayma,True,True,,cultural,cultural,low,low,False,False,False,False,True
+89,place_0087,Tabuk Waterfront,Tabuk Region,True,True,,nature,nature,low,low,False,False,False,False,True
+90,place_0088,Souq Al-Haj,Tabuk,True,True,,cultural,cultural,low,low,False,False,False,False,True
+91,place_0089,Tabuk Attraction Mud House,Tabuk,False,True,invalid_opening_hours,cultural,cultural,low,low,False,False,False,False,True
+92,place_0090,Tabuk Castle Museum,Tabuk,False,True,invalid_opening_hours,cultural,cultural,low,low,False,False,False,False,True
+93,place_0091,Tabuk Airport Park,Tabuk,False,True,invalid_opening_hours,nature,nature,low,low,False,False,False,False,True
+94,place_0092,Funtura Tabuk Park,Tabuk,False,True,invalid_opening_hours,urban,urban,low,low,False,False,False,False,True
+95,place_0093,Tabuk Central Park,Tabuk,False,True,invalid_opening_hours,nature,nature,low,low,False,False,False,False,True
+96,place_0094,Jeddah Corniche,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.7,0.7,False,False,False,False,True
+97,place_0095,King Fahd Fountain,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,landmark,landmark,0.7,0.7,False,False,False,False,True
+98,place_0096,Al Balad Historic District,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.68,0.68,False,False,False,False,True
+99,place_0097,Jeddah Yacht Club,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,entertainment,entertainment,0.9,0.9,False,False,False,False,True
+100,place_0098,Fakieh Aquarium,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,family,family,0.82,0.82,False,False,False,False,True
+101,place_0099,Mall of Arabia Jeddah,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.62,0.62,False,False,False,False,True
+102,place_0100,Jeddah Waterfront Park,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.64,0.64,False,False,False,False,True
+103,place_0101,Tayebat Museum,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.76,0.76,False,False,False,False,True
+104,place_0102,Floating Mosque,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,religious,religious,0.72,0.72,False,False,False,False,True
+105,place_0103,Roshn Waterfront,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.77,0.77,False,False,False,False,True
+106,place_0104,Red Sea Mall,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.94,0.94,False,False,False,False,True
+107,place_0105,Aziz Mall,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.66,0.66,False,False,False,False,True
+108,place_0106,Andalus Mall,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.73,0.73,False,False,False,False,True
+109,place_0107,Prince Majid Park,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.65,0.65,False,False,False,False,True
+110,place_0108,Al Shallal Theme Park,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,family,family,0.7,0.7,False,False,False,False,True
+111,place_0109,Silver Sands Beach,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.62,0.62,False,False,False,False,True
+112,place_0110,Obhur Waterfront,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.57,0.57,False,False,False,False,True
+113,place_0111,Salam Mall,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.77,0.77,False,False,False,False,True
+114,place_0112,Stars Avenue Mall,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.6,0.6,False,False,False,False,True
+115,place_0113,Heraa International Mall,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.73,0.73,False,False,False,False,True
+116,place_0114,Al Rahma Mosque,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,religious,religious,0.78,0.78,False,False,False,False,True
+117,place_0115,Jeddah Art Promenade,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.82,0.82,False,False,False,False,True
+118,place_0116,Khuzam Palace,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.86,0.86,False,False,False,False,True
+119,place_0117,Bicycle Square,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,landmark,landmark,0.83,0.83,False,False,False,False,True
+120,place_0118,Jeddah Park Mall,Jeddah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.77,0.77,False,False,False,False,True
+121,place_0119,Quba Mosque,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,religious,religious,0.85,0.85,False,False,False,False,True
+122,place_0120,Al Masjid an Nabawi,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,religious,religious,0.56,0.56,False,False,False,False,True
+123,place_0121,Qiblatain Mosque,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,religious,religious,0.9,0.9,False,False,False,False,True
+124,place_0122,Mount Uhud,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.69,0.69,False,False,False,False,True
+125,place_0123,Uhud Martyrs Cemetery,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.61,0.61,False,False,False,False,True
+126,place_0124,King Fahd Quran Printing Complex,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.6,0.6,False,False,False,False,True
+127,place_0125,Hejaz Railway Museum,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.74,0.74,False,False,False,False,True
+128,place_0126,Al Noor Mall,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.81,0.81,False,False,False,False,True
+129,place_0127,Rashed Mall Madinah,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.59,0.59,False,False,False,False,True
+130,place_0128,Al Baqi Cemetery,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,religious,religious,0.64,0.64,False,False,False,False,True
+131,place_0129,Wadi Al Aqiq,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.56,0.56,False,False,False,False,True
+132,place_0130,Dar Al Madinah Museum,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.75,0.75,False,False,False,False,True
+133,place_0131,Madinah Dates Market,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.57,0.57,False,False,False,False,True
+134,place_0132,Prince Mohammed Bin Abdulaziz Park,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.64,0.64,False,False,False,False,True
+135,place_0133,Al Hokair Time,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,family,family,0.88,0.88,False,False,False,False,True
+136,place_0134,Garden Mall Madinah,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.73,0.73,False,False,False,False,True
+137,place_0135,Madinah Waterfront,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.59,0.59,False,False,False,False,True
+138,place_0136,Ohud Mall,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.81,0.81,False,False,False,False,True
+139,place_0137,Al Madinah Museum,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.74,0.74,False,False,False,False,True
+140,place_0138,Sayed Al Shuhada Walk,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.58,0.58,False,False,False,False,True
+141,place_0139,Alis Well,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.61,0.61,False,False,False,False,True
+142,place_0140,Wadi Qanat Viewpoint,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.83,0.83,False,False,False,False,True
+143,place_0141,Al Rashid Mega Mall,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.9,0.9,False,False,False,False,True
+144,place_0142,Madinah Central Fish Market,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.74,0.74,False,False,False,False,True
+145,place_0143,Quba Walkway,Madinah,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.62,0.62,False,False,False,False,True
+146,place_0144,Hegra (Madain Saleh),AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.66,0.66,False,False,False,False,True
+147,place_0145,Elephant Rock,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.6,0.6,False,False,False,False,True
+148,place_0146,Old Town AlUla,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.82,0.82,False,False,False,False,True
+149,place_0147,Maraya Concert Hall,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,entertainment,entertainment,0.91,0.91,False,False,False,False,True
+150,place_0148,Harrat Viewpoint,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.78,0.78,False,False,False,False,True
+151,place_0149,Dadan Archaeological Site,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.62,0.62,False,False,False,False,True
+152,place_0150,Jabal Ikmah,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.59,0.59,False,False,False,False,True
+153,place_0151,AlUla Oasis Trail,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.9,0.9,False,False,False,False,True
+154,place_0152,Winter Park AlUla,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.69,0.69,False,False,False,False,True
+155,place_0153,Incense Road Market,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.58,0.58,False,False,False,False,True
+156,place_0154,AlUla Arts District,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.66,0.66,False,False,False,False,True
+157,place_0155,Al Jadidah District,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,leisure,leisure,0.61,0.61,False,False,False,False,True
+158,place_0156,Sharaan Nature Reserve,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.81,0.81,False,False,False,False,True
+159,place_0157,Ashar Valley,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.67,0.67,False,False,False,False,True
+160,place_0158,AlUla Camel Cup Grounds,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,sports,sports,0.58,0.58,False,False,False,False,True
+161,place_0159,The Giant Swing,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,adventure,adventure,0.92,0.92,False,False,False,False,True
+162,place_0160,AlUla Zipline,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,adventure,adventure,0.88,0.88,False,False,False,False,True
+163,place_0161,AlUla Stargazing Camp,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.83,0.83,False,False,False,False,True
+164,place_0162,Rock Art Trail,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.56,0.56,False,False,False,False,True
+165,place_0163,AlUla Hot Air Balloon Area,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,adventure,adventure,0.86,0.86,False,False,False,False,True
+166,place_0164,Al Manshiyah Plaza,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,shopping,shopping,0.81,0.81,False,False,False,False,True
+167,place_0165,AlUla Heritage Walk,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,cultural,cultural,0.91,0.91,False,False,False,False,True
+168,place_0166,Desert X AlUla Site,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,art,art,0.95,0.95,False,False,False,False,True
+169,place_0167,Sunset Point AlUla,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,nature,nature,0.76,0.76,False,False,False,False,True
+170,place_0168,AlUla Adventure Hub,AlUla,False,True,invalid_PopularityScore; invalid_AvgRating; invalid_BudgetLevel,adventure,adventure,0.79,0.79,False,False,False,False,True
+171,place_0169,Jouf University,Al Jouf,False,True,reversed_availability_dates,University,education,low,low,False,False,True,False,False
+172,place_0170,Al Jouf Museum,Al Jouf,False,True,reversed_availability_dates,Museum,cultural,low,low,False,False,True,False,False
+173,place_0171,Marid Castle,Al Jouf,False,True,reversed_availability_dates,Culture,cultural,high,high,False,False,True,False,False
+174,place_0172,Rajajil Columns,Al Jouf,False,True,reversed_availability_dates,Culture,cultural,mid,mid,False,False,True,False,False
+175,place_0173,Sisera Well,Al Jouf,False,True,reversed_availability_dates,Historical Landmark,cultural,low,low,False,False,True,False,True
+176,place_0174,Dumat Al Jandal Lake,Al Jouf,False,True,reversed_availability_dates,Entertainment,entertainment,low,low,False,False,True,False,False
+177,place_0175,Zaabal Castle,Al Jouf,False,True,reversed_availability_dates,Historical Landmark,cultural,mid,mid,False,False,True,False,True
+178,place_0176,Al Daraa Historical District,Al Jouf,False,True,reversed_availability_dates,Historical District,cultural,mid,mid,False,False,True,False,True
+179,place_0177,Omar Ibn Al Khattab Mosque,Al Jouf,False,True,reversed_availability_dates,Mosque,religious,mid,mid,False,False,True,False,False
+180,place_0178,Dumat Al Jandal Old Town,Al Jouf,False,True,reversed_availability_dates,Historical Area,cultural,mid,mid,False,False,True,False,True
+181,place_0179,Al Nuweissir Museum,Al Jouf,False,True,reversed_availability_dates,Museum,cultural,low,low,False,False,True,False,False
+182,place_0180,Camel Carvings Site,Al Jouf,False,True,reversed_availability_dates,Archaeological Site,cultural,high,high,False,False,True,False,False
+183,place_0181,Qarat Al Mazad,Al Jouf,False,True,reversed_availability_dates,Archaeological Site,cultural,low,low,False,False,True,False,True
+184,place_0182,Al Sadu Factory,Al Jouf,False,True,reversed_availability_dates,Cultural Center,cultural,high,high,False,False,True,False,False
+185,place_0183,Al Jouf Regional Museum,Al Jouf,False,True,reversed_availability_dates,Museum,cultural,mid,mid,False,False,True,False,False
+186,place_0184,King Abdullah Cultural Center,Al Jouf,False,True,reversed_availability_dates,Cultural Center,cultural,low,low,False,False,True,False,False
+187,place_0185,Al Nakheel Park Sakaka,Al Jouf,False,True,reversed_availability_dates,Park,nature,high,high,False,False,True,False,False
+188,place_0186,Prince Abdulilah Park,Al Jouf,False,True,reversed_availability_dates,Park,nature,high,high,False,False,True,False,False
+189,place_0187,Al Jouf Plaza,Al Jouf,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+190,place_0188,Al-Sarhani Plaza,Al Jouf,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+191,place_0189,Al Qurayyat Mall,Al Jouf,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+192,place_0190,Rajajil Visitor Center,Al Jouf,False,True,reversed_availability_dates,Visitor Center,visitor center,low,low,False,False,True,False,False
+193,place_0191,Dumat Al Jandal Historic Wall,Al Jouf,False,True,reversed_availability_dates,Historical Landmark,cultural,low,low,False,False,True,False,False
+194,place_0192,Dumat Al Jandal Lake Walkway,Al Jouf,False,True,reversed_availability_dates,Waterfront,waterfront,low,low,False,False,True,False,False
+195,place_0193,Al Qasr Heritage District,Al Jouf,False,True,reversed_availability_dates,Historical District,cultural,low,low,False,False,True,False,False
+196,place_0194,Sakaka Palm Farm,Al Jouf,False,True,reversed_availability_dates,Farm,nature,low,low,False,False,True,False,False
+197,place_0195,Sakaka Camel Market,Al Jouf,False,True,reversed_availability_dates,Market,shopping,low,low,False,False,True,False,False
+198,place_0196,Dumat Al Jandal Market,Al Jouf,False,True,reversed_availability_dates,Market,shopping,low,low,False,False,True,False,False
+199,place_0197,Al Qurayyat Public Park,Al Jouf,False,True,reversed_availability_dates,Park,nature,low,low,False,False,True,False,False
+200,place_0198,Yanbu Lake Park,Yanbu,False,True,reversed_availability_dates,Park,nature,mid,mid,False,False,True,False,False
+201,place_0199,Al Nawras Island,Yanbu,False,True,reversed_availability_dates,Island Park,nature,high,high,False,False,True,False,False
+202,act_0002,Yanbu Waterfront,Yanbu,False,True,reversed_availability_dates,Entertainment,entertainment,low,low,False,False,True,False,False
+203,act_0003,Yanbu Diving,Yanbu,False,True,reversed_availability_dates,Adventure,adventure,mid,mid,False,False,True,False,False
+204,place_0200,Yanbu Al Bahr Beach,Yanbu,False,True,reversed_availability_dates,Beach,beach,high,high,False,False,True,False,False
+205,place_0201,Waterfront Beach Royal Commission,Yanbu,False,True,reversed_availability_dates,Beach,beach,high,high,False,False,True,False,True
+206,place_0202,Yanbu Marina,Yanbu,False,True,reversed_availability_dates,Marina,marina,high,high,False,False,True,False,True
+207,place_0203,Historic Yanbu,Yanbu,False,True,reversed_availability_dates,Culture,cultural,high,high,False,False,True,False,False
+208,place_0204,Oyster Island,Yanbu,False,True,reversed_availability_dates,Island,nature,low,low,False,False,True,False,False
+209,place_0205,Yanbu Fish Market,Yanbu,False,True,reversed_availability_dates,Market,shopping,mid,mid,False,False,True,False,False
+210,place_0206,Happy Land Yanbu,Yanbu,False,True,reversed_availability_dates,Amusement Park,entertainment,mid,mid,False,False,True,False,False
+211,place_0207,Al Fairouz Park,Yanbu,False,True,reversed_availability_dates,Park,nature,mid,mid,False,False,True,False,True
+212,place_0208,Yanbu Corniche,Yanbu,False,True,reversed_availability_dates,Waterfront,waterfront,mid,mid,False,False,True,False,False
+213,place_0209,Radwa Mountain,Yanbu,False,True,reversed_availability_dates,Mountain,nature,high,high,False,False,True,False,False
+214,place_0210,Sharm Beach,Yanbu,False,True,reversed_availability_dates,Beach,beach,mid,mid,False,False,True,False,True
+215,place_0211,Yanbu Commercial Port,Yanbu,False,True,reversed_availability_dates,Port,port,low,low,False,False,True,False,False
+216,place_0212,Yanbu Historic District,Yanbu,False,True,reversed_availability_dates,Historic District,cultural,low,low,False,False,True,False,False
+217,place_0213,Yanbu Mall,Yanbu,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+218,place_0214,Dana Mall,Yanbu,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+219,place_0215,Royal Plaza Yanbu,Yanbu,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+220,place_0216,Al Jawhara Mall,Yanbu,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+221,act_0004,Taif Rose Festival,Taif,False,True,reversed_availability_dates,Festival,entertainment,high,high,False,False,True,False,False
+222,place_0217,King Khalid Racecourse,Taif,False,True,reversed_availability_dates,Sports Venue,sports,high,high,False,False,True,False,True
+223,place_0218,Shubra Palace,Taif,False,True,reversed_availability_dates,Historical Landmark,cultural,high,high,False,False,True,False,False
+224,act_0005,Al Hada Cable Car,Taif,False,True,reversed_availability_dates,Adventure,adventure,mid,mid,False,False,True,False,True
+225,act_0006,Al Shafa,Taif,False,True,reversed_availability_dates,Adventure,adventure,mid,mid,False,False,True,False,False
+226,act_0007,Taif Rose Farms,Taif,False,True,reversed_availability_dates,Tourism,tourism,high,high,False,False,True,False,False
+227,act_0008,Arruddaf Park,Taif,False,True,reversed_availability_dates,Entertainment,entertainment,high,high,False,False,True,False,False
+228,act_0009,Taif Fruit Market,Taif,False,True,reversed_availability_dates,Tourism,tourism,low,low,False,False,True,False,True
+229,act_0010,Al Shafa Mountains,Taif,False,True,reversed_availability_dates,Mountain,nature,high,high,False,False,True,False,False
+230,place_0219,Taif Central Market,Taif,False,True,reversed_availability_dates,Market,shopping,high,high,False,False,True,False,False
+231,place_0220,King Fahad Park,Taif,False,True,reversed_availability_dates,Park,nature,low,low,False,False,True,False,False
+232,place_0221,Al Kar Tourist Village,Taif,False,True,reversed_availability_dates,Tourist Attraction,tourist attraction,low,low,False,False,True,False,False
+233,place_0222,Taif Zoo,Taif,False,True,reversed_availability_dates,Zoo,zoo,low,low,False,False,True,False,True
+234,place_0223,Al Shareef Museum,Taif,False,True,reversed_availability_dates,Museum,cultural,mid,mid,False,False,True,False,True
+235,place_0224,Al Hada Mountain,Taif,False,True,reversed_availability_dates,Mountain,nature,low,low,False,False,True,False,False
+236,place_0225,Saiysad National Park,Taif,False,True,reversed_availability_dates,National Park,nature,mid,mid,False,False,True,False,False
+237,place_0226,Green Mountain Park,Taif,False,True,reversed_availability_dates,Amusement Park,entertainment,low,low,False,False,True,False,True
+238,place_0227,Al Faisaliah Garden,Taif,False,True,reversed_availability_dates,Garden,nature,low,low,False,False,True,False,False
+239,place_0228,Taif Regional Museum,Taif,False,True,reversed_availability_dates,Museum,cultural,high,high,False,False,True,False,False
+240,place_0229,Jouri Mall,Taif,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+241,place_0230,Taif's Heart Mall,Taif,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+242,place_0231,Obeikan Mall,Taif,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+243,place_0232,Taif International Mall,Taif,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+244,place_0233,Tera Mall,Taif,False,True,reversed_availability_dates,Shopping Mall,shopping,mid,mid,False,False,True,False,True
+245,place_0234,Dammam Corniche,Dammam,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,leisure,leisure,5,5,True,False,False,True,False
+246,place_0235,Khobar Corniche,Al Khobar,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,leisure,leisure,5,5,True,False,False,True,False
+247,place_0236,Marjan Island,Dammam,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,nature,nature,5,5,True,False,False,True,False
+248,place_0237,Half Moon Bay,Al Khobar,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,nature,nature,7,7,True,False,False,True,False
+249,place_0238,Ithra Center,Dhahran,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,cultural,cultural,1,1,True,False,False,True,False
+250,place_0239,SciTech Center,Al Khobar,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,education,education,1,1,True,False,False,True,False
+251,place_0240,Ajdan Walk,Al Khobar,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,entertainment,entertainment,4,4,True,False,False,True,False
+252,place_0241,King Fahd Park Dammam,Dammam,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,family,family,5,5,True,False,False,True,False
+253,place_0242,Dolphin Village Dammam,Dammam,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,family,family,2,2,True,False,False,True,False
+254,place_0243,Al Othaim Mall Dammam,Dammam,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,shopping,shopping,1,1,True,False,False,True,False
+255,place_0244,Al Rashid Mall Khobar,Al Khobar,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,shopping,shopping,1,1,True,False,False,True,False
+256,place_0245,Jet Ski Experience Khobar,Al Khobar,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,adventure,adventure,8,8,True,False,False,True,False
+257,place_0246,Scuba Diving Eastern Province,Al Khobar,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,adventure,adventure,9,9,True,False,False,True,False
+258,place_0247,Al Ahsa Oasis,Al Ahsa,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,nature,nature,5,5,True,False,False,True,False
+259,place_0248,Qaisariya Souq,Al Ahsa,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,cultural,cultural,2,2,True,False,False,True,False
+260,place_0249,Al Qarah Mountain,Al Ahsa,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,adventure,adventure,6,6,True,False,False,True,False
+261,place_0250,Jubail Corniche,Jubail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,leisure,leisure,5,5,True,False,False,True,False
+262,place_0251,Al Nakheel Beach Jubail,Jubail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,nature,nature,6,6,True,False,False,True,False
+263,place_0252,Jubail Fishing Trip,Jubail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,adventure,adventure,7,7,True,False,False,True,False
+264,place_0253,Ras Tanura Beach,Ras Tanura,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,nature,nature,5,5,True,False,False,True,False
+265,place_0254,Al Samra Mountain,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,leisure,leisure,5,5,True,False,False,True,False
+266,place_0255,Qishlah Palace,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,cultural,cultural,2,2,True,False,False,True,False
+267,place_0256,A'arif Fort,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,cultural,cultural,5,5,True,False,False,True,False
+268,place_0257,Aja Mountains Hiking Tour,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,adventure,adventure,8,8,True,False,False,True,False
+269,place_0258,Hail Regional Museum,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,cultural,cultural,1,1,True,False,False,True,False
+270,place_0259,Salma Desert Camping,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,adventure,adventure,10,10,True,False,False,True,False
+271,place_0260,Al Meghwah Park,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,family,family,5,5,True,False,False,True,False
+272,place_0261,Al Rashid Mall Hail,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,shopping,shopping,1,1,True,False,False,True,False
+273,place_0262,Jubbah Rock Art Site,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,historical,cultural,7,7,True,False,False,True,False
+274,place_0263,Barzan Palace Towers,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,cultural,cultural,4,4,True,False,False,True,False
+275,place_0264,Olive Garden Hail,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,nature,nature,4,4,True,False,False,True,False
+276,place_0265,Hail Desert Safari,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,adventure,adventure,10,10,True,False,False,True,False
+277,place_0266,Hail Cafe Hopping Tour,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,food & entertainment,food & entertainment,3,3,True,False,False,True,False
+278,place_0267,Al Salam Park Hail,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,family,family,4,4,True,False,False,True,False
+279,place_0268,Faid Historical City,Hail,False,False,invalid_MinAge; invalid_MaxAge; invalid_PopularityScore; invalid_AvgRating; invalid_Latitude; invalid_longitude; invalid_IsActive; invalid_Is_year_Around; invalid_BudgetLevel; invalid_availability_dates; invalid_opening_hours,historical,cultural,6,6,True,False,False,True,False
+280,place_0269,Najran Dam,Najran,True,True,,nature,nature,low,low,False,False,False,False,True
+281,place_0270,Al-Ukhdood Archaeological Site,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+282,place_0271,Najran Museum,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+283,place_0272,Emir's Palace (Al-Amara),Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+284,place_0273,Wadi Najran Walk,Najran,True,True,,nature,nature,low,low,False,False,False,False,True
+285,place_0274,Najran Traditional Market (Souq),Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+286,place_0275,Sharurah Desert Safari,Sharurah,True,True,,adventure,adventure,mid,mid,False,False,False,False,False
+287,place_0276,Khubash Heritage Village,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+288,place_0277,Al-Ayn Heritage Village,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+289,place_0278,Najran Corniche & Waterfront,Najran,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+290,place_0279,Najran Palm Groves,Najran,True,True,,nature,nature,low,low,False,False,False,False,True
+291,place_0280,Habarut Mountain Viewpoint,Najran,True,True,,nature,nature,low,low,False,False,False,False,True
+292,place_0281,Sharurah City Park,Sharurah,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+293,place_0282,Najran Zoo & Wildlife Park,Najran,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+294,place_0283,Najran Camel Market,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+295,place_0284,Yedama Nature Reserve,Najran,True,True,,nature,nature,low,low,False,False,False,False,True
+296,place_0285,Thar Najran Heritage Walk,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+297,place_0286,Al-Qabil Hot Springs,Najran,True,True,,nature,nature,low,low,False,False,False,False,True
+298,place_0287,Najran Cultural Festival Grounds,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,False
+299,place_0288,Sabt Al-Alaya Mountain Trek,Najran,True,True,,adventure,adventure,low,low,False,False,False,False,False
+300,place_0289,Najran Silver Craft Workshop,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+301,place_0290,Najran Folklore & Heritage Center,Najran,True,True,,cultural,cultural,low,low,False,False,False,False,True
+302,place_0291,Raghadan Forest Park,Al Baha,True,True,,nature,nature,low,low,False,False,False,False,True
+303,act_0011,Raghadan Cable Car Experience,Al Baha,True,True,,adventure,adventure,mid,mid,False,False,False,False,True
+304,place_0292,Thee Ain Heritage Village,Al Makhwah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+305,act_0012,Baljurashi Mountain Drive,Baljurashi,True,True,,leisure,leisure,low,low,False,False,False,False,True
+306,place_0293,Prince Hussam Park,Al Baha,True,True,,family,family,low,low,False,False,False,False,True
+307,act_0013,Hiking in Shada Mountain,Al Makhwah,True,True,,adventure,adventure,mid,mid,False,False,False,False,True
+308,place_0294,Shada Heritage Area,Qilwah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+309,act_0014,Traditional Food Experience,Al Baha,True,True,,food & entertainment,food & entertainment,mid,mid,False,False,False,False,True
+310,place_0295,Al Kharrarah Waterfall,Baljurashi,True,True,,nature,nature,low,low,False,False,False,False,False
+311,act_0015,Camping in Al Baha Forests,Al Baha,True,True,,adventure,adventure,high,high,False,False,False,False,False
+312,place_0296,Baljurashi Viewpoint,Baljurashi,True,True,,leisure,leisure,low,low,False,False,False,False,True
+313,act_0016,Coffee Farm Tour,Al Makhwah,True,True,,cultural,cultural,mid,mid,False,False,False,False,True
+314,place_0297,Al Baha Traditional Market,Al Baha,True,True,,cultural,cultural,low,low,False,False,False,False,True
+315,act_0017,Zipline Adventure Experience,Al Baha,True,True,,adventure,adventure,high,high,False,False,False,False,True
+316,place_0298,Forest Walking Trail,Al Baha,True,True,,nature,nature,low,low,False,False,False,False,True
+317,act_0018,Family Picnic Experience,Al Baha,True,True,,family,family,low,low,False,False,False,False,True
+318,place_0299,Heritage Stone Houses,Al Makhwah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+319,act_0019,Sunset Mountain View Tour,Baljurashi,True,True,,leisure,leisure,mid,mid,False,False,False,False,True
+320,place_0300,Al Baha Museum,Al Baha,True,True,,cultural,cultural,low,low,False,False,False,False,True
+321,act_0020,Mountain Photography Walk,Al Baha,True,True,,leisure,leisure,low,low,False,False,False,False,True
+322,place_0301,Farasan Islands Marine Reserve,Jazan,True,True,,nature,nature,mid,mid,False,False,False,False,True
+323,place_0302,Jazan Corniche & Beach,Jazan,True,True,,nature,nature,low,low,False,False,False,False,True
+324,place_0303,Fifa Mountain & Terraces,Fifa,True,True,,nature,nature,low,low,False,False,False,False,True
+325,place_0304,Wadi Lajab Canyon,Jazan,True,True,,adventure,adventure,low,low,False,False,False,False,True
+326,place_0305,Jazan Mangrove Park,Jazan,True,True,,nature,nature,low,low,False,False,False,False,True
+327,place_0306,Al-Dayer Waterfall & Valley,Al-Dayer,True,True,,nature,nature,low,low,False,False,False,False,False
+328,place_0307,Habalah Hanging Village Viewpoint,Jazan,True,True,,nature,nature,low,low,False,False,False,False,True
+329,place_0308,Jazan Regional Museum,Jazan,False,True,missing_Category,,,low,low,False,False,False,False,True
+330,place_0309,Al-Aqabah Heritage Village,Jazan,True,True,,cultural,cultural,low,low,False,False,False,False,True
+331,place_0310,Jazan Traditional Market (Fish Souq),Jazan,True,True,,cultural,cultural,low,low,False,False,False,False,True
+332,place_0311,Samtah Heritage Area,Samtah,True,True,,cultural,cultural,low,low,False,False,False,False,True
+333,place_0312,Jazan Coffee Farm Experience,Jazan,True,True,,cultural,cultural,mid,mid,False,False,False,False,True
+334,place_0313,Farasan Island Archaeological Site,Farasan,True,True,,cultural,cultural,low,low,False,False,False,False,True
+335,place_0314,Jazan Season Entertainment Zone,Jazan,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+336,place_0315,Jazan Family Park (Al-Matar Park),Jazan,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+337,place_0316,Jazan Waterpark,Jazan,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+338,place_0317,Farasan Snorkeling & Diving,Farasan,True,True,,adventure,adventure,high,high,False,False,False,False,True
+339,place_0318,Jazan Mall,Jazan,True,True,,shopping,shopping,mid,mid,False,False,False,False,True
+340,place_0319,Red Sea Mall Jazan,Jazan,True,True,,shopping,shopping,mid,mid,False,False,False,False,True
+341,place_0320,Al-Rahmania Shopping Center,Jazan,True,True,,shopping,shopping,low,low,False,False,False,False,True
+342,place_0321,Jazan Commercial Boulevard,Jazan,True,True,,shopping,shopping,mid,mid,False,False,False,False,True
+343,act_0021,TEMPLE OF COINS,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+344,act_0022,Daz | Kids Entertainment at Sulimaniyah in Riyadh,Riyadh,True,True,,family,family,mid,mid,False,False,False,False,False
+345,act_0023,Daz | Kids Entertainment at Qurtubah in Riyadh,Riyadh,True,True,,family,family,mid,mid,False,False,False,False,False
+346,place_0322,X300 Bowling | Entertainment Center in Riyadh,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+347,act_0024,SENSAS Multi-Sensory Experience,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+348,act_0025,Air Rifle Shooting,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+349,act_0026,The Captured By storm,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+350,act_0027,Luxury Royal Camp Rental,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+351,act_0028,Luxury Royal Camp 2 Rental,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+352,act_0029,Family Camp Rental,Riyadh,True,True,,family,family,high,high,False,False,False,False,False
+353,act_0030,VIP Kashta Rental,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,False
+354,act_0031,Family Kashta Rental,Riyadh,True,True,,family,family,mid,mid,False,False,False,False,False
+355,act_0032,The Laboratory,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+356,place_0323,"KAPSARC + Black Gold Museum (Oil, People, and Design)",Riyadh,True,True,,cultural,cultural,mid,mid,False,False,False,False,False
+357,act_0033,Kids Saudi Mini Kleeja Experience,Riyadh,True,True,,family,family,mid,mid,False,False,False,False,False
+358,act_0034,"Edge of The World trip, sunset & stargazing",Riyadh,True,True,,adventure,adventure,mid,mid,False,False,False,False,False
+359,act_0035,"Visit Kingdom Tower, Al Faisaliah Tower, and Al Diriyah",Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+360,act_0036,Mat Pilates,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+361,act_0037,Hatha Yoga,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+362,act_0038,Aerial Yoga,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+363,act_0039,Wheel Yoga & Yoga Nidra,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+364,act_0040,Power Yoga,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+365,act_0041,VIP Safari with Modified Wranglers (up to 4 pax),Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+366,act_0042,A Thrilling Adventure: Open-Topped Vehicle Safari,Riyadh,True,True,,adventure,adventure,mid,mid,False,False,False,False,False
+367,act_0043,BOX PARTY,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+368,act_0044,SQUID GAME,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+369,act_0045,FLOOR IS LAVA,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+370,act_0046,ESCAPE AI,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+371,act_0047,ANGRY BIRDS,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+372,act_0048,ALIEN APTITUDE TEST,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+373,act_0049,Printing on Candles,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+374,act_0050,Swimming With Dolphins,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+375,act_0051,BLVD Dolphinarium 2025,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+376,act_0052,BLVD Forest,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+377,act_0053,Battle Dom,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+378,act_0054,Top Shot,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+379,act_0055,Cocomelon Playdate Schedule,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+380,act_0056,SuperFly,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+381,act_0057,Oasis,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+382,act_0058,Oasis,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+383,act_0059,Spinners,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+384,act_0060,Midnight Manor,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+385,place_0324,The Lost Museum,Riyadh,True,True,,cultural,cultural,low,low,False,False,False,False,False
+386,act_0061,War Castle,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+387,act_0062,Metaworld,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+388,act_0063,Doll Maker,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+389,act_0064,PUBG,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+390,act_0065,SuperFly,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+391,act_0066,Battle Kart,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+392,act_0067,Oasis,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+393,act_0068,Kids Area,Riyadh,True,True,,family,family,low,low,False,False,False,False,False
+394,act_0069,Doos Karting,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+395,act_0070,Doos Karting,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+396,act_0071,Star Gazing Tour,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,True
+397,act_0072,Edge of the World Adventure,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+398,act_0073,Desert Safari at 365 Dunes Camp,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+399,act_0074,Stargazing Night at the Red Sands Camp,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+400,act_0075,Bungee Fun,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,mid,mid,False,False,False,False,False
+401,act_0076,The International Fair and Museum of the Prophet's Biography,Riyadh,True,False,,cultural,cultural,low,low,False,False,False,False,False
+402,act_0077,Play-Topia,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+403,act_0078,Poppy Play Time,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+404,act_0079,RED SAND DUNES SAFARI WITH KESHTA,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+405,act_0080,Second Edge of the World (Manjour Trail),Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+406,act_0081,Exploring King Khalid Reserve,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+407,act_0082,Paragliding Experience in Riyadh,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+408,act_0083,STORM Ladies' Hikers | EVERY SATURDAY,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+409,act_0084,Kingdom Heritage and Culture,Riyadh,True,False,,cultural,cultural,high,high,False,False,False,False,False
+410,act_0085,Shaqra and Ushaiger Tour,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+411,act_0086,Arabian Night! | EVERY Thursday,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+412,act_0087,Safari Tour in Riyadh Desert,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+413,act_0088,Sand Magic,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+414,act_0089,Alammaria Storm Farm,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+415,act_0090,Al Ammaria Storm Farm,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+416,act_0091,Edge of the World (Daily Trip by 4X4 up to 6 pax),Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,False
+417,act_0092,To Edge of the World,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+418,act_0093,End of the Year (Nineties Night) – December 31,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+419,act_0094,Edge of the World,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+420,act_0095,Edge of the World VIP — By Modified Wranglers,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,True
+421,act_0096,Red Sands Ramadan Nights,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+422,act_0097,Quad Bike Safari,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+423,act_0098,Archery,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+424,act_0099,Camel Riding,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+425,act_0100,Buggy Safari,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+426,act_0101,Wrangler Safari,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+427,act_0102,Red Sands EID Trip,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+428,act_0103,Sand Storm Camp,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+429,act_0104,The Captured 3 April,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+430,act_0105,The Captured 10 April,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+431,act_0106,Sandstorm 10 April,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+432,act_0107,Kids Games,Riyadh,True,True,,family,family,low,low,False,False,False,False,False
+433,act_0108,Paragliding,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,True
+434,act_0109,Aerial Yoga (Kids),Riyadh,True,False,,family,family,mid,mid,False,False,False,False,False
+435,act_0110,Pilates Spring Board,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+436,act_0111,Somatic Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+437,act_0112,Pet Birds Area,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+438,act_0113,Morning Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+439,act_0114,Horse Riding Experience In King Khalid Preserve,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+440,act_0115,Sound Healing Hammock,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+441,act_0116,Yin Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+442,act_0117,Robotics & AI - Introduction to Robotics 99,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+443,act_0118,Relax & Restoration Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+444,act_0119,3D Designing & Printing,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+445,act_0120,Drones Technology - Introduction to Fixed-Wing,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+446,act_0121,Drones Technology - Introduction to Multi-Rotor,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+447,act_0122,ArcKi (Architecture & Design) - Creative Studio,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+448,act_0123,ArcKi (Architecture & Design) - Art & Color Studio,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+449,act_0124,ArcKi (Architecture & Design) - Urban Planning Studio,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+450,act_0125,Robotics & AI - Electrical Circuits & Electronics,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+451,act_0126,Robotics & AI - Introduction to Electricity,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+452,act_0127,Robotics & AI - Introduction to Robotics 101,Riyadh,True,True,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+453,act_0128,PAC-MAN,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+454,act_0129,Skiing Experience,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+455,act_0130,Courchevel,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+456,act_0131,Edge of the World – Sunrise (Group Tour),Riyadh,True,True,,adventure,adventure,high,high,False,False,False,False,True
+457,act_0132,Edge of the World – Sunset (Group Tour),Riyadh,True,True,,adventure,adventure,high,high,False,False,False,False,False
+458,act_0133,Red Sands Tour – Adventure in the Dunes (Group Tour),Riyadh,True,True,,adventure,adventure,high,high,False,False,False,False,False
+459,act_0134,Bicycle Tour in King Khalid Reserve,Riyadh,True,True,,adventure,adventure,low,low,False,False,False,False,False
+460,act_0135,Flexibility Yoga,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,mid,mid,False,False,False,False,False
+461,act_0136,Beginner Horse Riding + Photography Experience,Riyadh,True,True,,adventure,adventure,high,high,False,False,False,False,False
+462,act_0137,Yoga Mommy and Me,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+463,act_0138,Mat Pilates,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+464,act_0139,Cook Your Own by the Lake,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,False
+465,act_0140,Barbeque Donuts Boat,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+466,act_0141,Architectural Wonders of KAFD - An Iconic Business District,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+467,act_0142,Bicycle Tour in King Khalid Reserve,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+468,act_0143,Yalla Kashta,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+469,act_0144,Sandstorm 3 April,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+470,act_0145,Little Dunes Explorers,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+471,act_0146,Embark On An Unforgettable Adventure: Camel-Back Safari,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+472,act_0147,Animal Lovers Dream: Horseback Safari at Nofa Wild,Riyadh,True,True,,adventure,adventure,mid,mid,False,False,False,False,True
+473,place_0325,Nofa Adventure Park,Riyadh,True,True,,adventure,adventure,mid,mid,False,False,False,False,False
+474,act_0148,House of the Hype,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+475,act_0149,Bungee Fun,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,mid,mid,False,False,False,False,False
+476,act_0150,Battlekart GameOn Riyadh,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+477,act_0151,Red Sand Dunes Safari with Keshta,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+478,act_0152,Glass Engraving,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+479,act_0153,Red Sands : Sandboarding & Dune Bashing,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,False
+480,act_0154,Teaching Arabic Calligraphy,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+481,act_0155,Acrylic Painting,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,True
+482,act_0156,Knife Drawing Technique,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,True
+483,act_0157,Glass Painting,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+484,act_0158,The Art of Mixing Colors,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+485,act_0159,Alcohol Ink,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,True
+486,act_0160,Acrylic Pottery Painting,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,True
+487,act_0161,Wood Engraving,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,True
+488,act_0162,Hand-made Pottery Making,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,True
+489,act_0163,Jollas experience,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+490,act_0164,Nofa Brunch,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+491,act_0165,Nofa Brunch,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+492,act_0166,Nofa Friday Brunch,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+493,act_0167,Nofa Brunch,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+494,act_0168,Eid BBQ Dinner Buffet,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+495,act_0169,Nofa Eid Brunch,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+496,act_0170,Battlekart Riyadh,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+497,act_0171,Ramadan Camp – Future Makers Week (15/3 - 18/3),Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,high,high,False,False,False,False,False
+498,act_0172,Falconry & Camel Experience in the Desert,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+499,act_0173,Architectural Wonders of KAFD - An Iconic Business District,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+500,place_0326,"Half Day in Riyadh (A) Al Masmak, National Museum, Kingdom Tower Tour",Riyadh,True,True,,cultural,cultural,high,high,False,False,False,False,False
+501,act_0174,The King Fahad National Library: An Architectural Icon,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+502,act_0175,Half Day in Riyadh (C) For Art Enthusiast – Misk Art Tour,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,False
+503,act_0176,King Fahd National Library: An Architectural Icon,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+504,place_0327,"VIP Riyadh Half Day Al Masmak, National Museum, Kingdom Tower Tour",Riyadh,True,True,,cultural,cultural,high,high,False,False,False,False,False
+505,act_0177,Sand Boarding,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+506,act_0178,Horse Riding,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+507,act_0179,Executive Lounge,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+508,act_0180,Riyadh's Edge of the World Tour with Sunset Views,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,False
+509,act_0181,Private Riyadh City Tour,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+510,act_0182,Elite Mobile Personal & Martial Arts Training,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+511,act_0183,Introductory Session - Fast Fit Al Waha Branch General Access,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+512,act_0184,Elite Mobile Personal & Martial Arts Training - One to One Session,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+513,act_0185,Care Package,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+514,act_0186,Desert Camp Experience in Riyadh,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+515,act_0187,Edge of the World – Sunrise (Private Tour),Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,False
+516,act_0188,Ramadan Camp – Innovation Week (8/3 - 11/3),Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,high,high,False,False,False,False,False
+517,act_0189,Robotics & AI Course - Introduction to Robotics 101,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+518,act_0190,ArcKi (Architecture & Design) Course - Design Thinking,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+519,act_0191,Robotics & AI Course - Introduction to Robotics 99,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+520,act_0192,Olulou,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+521,act_0193,Yoga & Meditation During Fasting,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+522,act_0194,Drones Technology Course - Fixed Wing 101,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+523,act_0195,ArcKi (Architecture & Design) Course - Islamic Architecture,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+524,place_0328,Bob's Famous Bowling & Arcade At Nakheel Mall Riyadh,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+525,place_0329,Bob's Famous Bowling & Arcade At The View Mall,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+526,place_0330,Bob's Famous Bowling & Arcade At Park Avenue,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+527,place_0331,Bob's Famous Bowling & Arcade At Al Hamra Mall,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+528,act_0196,Horse Riding at Riyadh Red Sand Dunes,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+529,act_0197,Yoga & Meditation,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+530,act_0198,Edge of the world 2,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+531,act_0199,2 Hour Prison Adventure,Riyadh,True,True,,adventure,adventure,mid,mid,False,False,False,False,False
+532,act_0200,3 Hour Prison Adventure,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+533,act_0201,Edge of the World & Keshta - Manjour Trail Private,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+534,act_0202,Battlekart Ladies Night - Riyadh,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+535,act_0203,Somatic Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+536,act_0204,Wall Rope Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+537,act_0205,The Groves Village,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+538,place_0332,Luca Park,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+539,act_0206,Pick Your Kashta,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+540,act_0207,Aerial Yoga (for beginners),Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+541,act_0208,Kayanee Dance Fitness Workout,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+542,act_0209,Kayanee Dance & Flow,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+543,act_0210,Kayanee Burn & Tone,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+544,act_0211,"Souq AlSabt: Explore Handcrafted Goods, Local Flavors & Creative Workshops",Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+545,act_0212,"Souq AlSabt: Explore Handcrafted Goods, Local Flavors & Creative Workshops",Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+546,act_0213,Kayanee Wellness Club @ Mandarin Oriental,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+547,act_0214,Hakawi: A Starry Night in Al-Amariya's Valleys,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+548,act_0215,Aldirah Tours,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+549,act_0216,Yoga Sound Healing and Painting,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+550,act_0217,Riyadh in a Day!,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+551,act_0218,Najd Dune Adventure,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+552,act_0219,بيت الأرواح 2,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+553,act_0220,Mommy & Me Aerial Yoga,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+554,act_0221,Sound Healing Hammocks,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+555,act_0222,Funko Experience,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+556,act_0223,Racing Simulator Experience,Riyadh,True,True,,adventure,adventure,mid,mid,False,False,False,False,True
+557,act_0224,2 Rounds of Bowling,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+558,act_0225,Wall Rope Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+559,act_0226,Edge of the World & Keshta via Manjour Trail,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+560,act_0227,Tennis Court,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+561,act_0228,Introductory Session - Fast Fit Al Narjis Branch Ladies Access,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+562,act_0229,Introductory Session - Fast Fit Al Rabiah Branch Ladies Access,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+563,act_0230,Introductory Session - Fast Fit Al Wurud Branch Ladies Access,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+564,act_0231,Bowling Palms Club,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,True
+565,act_0232,3 Rounds of Bowling,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+566,act_0233,Riyadh Combat Martial Arts Club (Al Manar Branch - Ladies),Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+567,act_0234,Martial Arts Classes at Riyadh Combat Club Al Nakheel,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+568,act_0235,Riyadh Combat Martial Arts Club (Al Saffarat Branch - Ladies),Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+569,act_0236,Riyadh Combat Martial Arts Club (Al Badi'ah Branch - Ladies),Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+570,act_0237,Riyadh Combat Martial Arts Club (Al Olaya Branch - Ladies),Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+571,act_0238,Riyadh Combat Martial Arts Club (Al Sahafa Branch - Ladies),Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+572,act_0239,Martial Arts Classes at Riyadh Combat Club Al Yasmin,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+573,act_0240,Riyadh Combat Martial Arts Club (Nakheel Branch - Men),Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+574,act_0241,Riyadh Combat Martial Arts Club (Al Saffarat Branch - Men),Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+575,act_0242,Riyadh Combat Martial Arts Club (Yasmine Branch - Men),Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+576,act_0243,Riyadh Combat Martial Arts Club (Al Olaya Branch - Men),Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+577,act_0244,Riyadh Combat Martial Arts Club (Al Manar Branch - Men),Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+578,act_0245,Riyadh Combat Martial Arts Club (Al Badi'ah Branch - Men),Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+579,act_0246,Riyadh Combat Martial Arts Club (Al Sahafa Branch - Men),Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+580,act_0247,Riyadh Combat Martial Arts Club (Al Sahafa Branch - Men),Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+581,act_0248,Bowling,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+582,act_0249,Warm Cacao & Vision Ritual,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+583,act_0250,Edge of the World – Sunset (Private Tour),Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,False
+584,act_0251,Shaqra & Ushayqir Tour – A Journey Through Heritage,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,False
+585,act_0252,Red Sands Tour – Adventure in the Dunes,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,False
+586,act_0253,Matoki Cafe,Riyadh,True,False,,food & entertainment,food & entertainment,low,low,False,False,False,False,False
+587,act_0254,Hatha Yoga,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+588,place_0333,Suwaidi Park Scheduler,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+589,act_0255,Flying Over Saudi,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+590,act_0256,A Lot Like Life,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+591,act_0257,Spin,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+592,act_0258,Pouring,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+593,act_0259,Escape House,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,mid,mid,False,False,False,False,False
+594,act_0260,Kids Yoga,Riyadh,True,False,,family,family,mid,mid,False,False,False,False,False
+595,act_0261,Knowledge of Design,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+596,act_0262,Rebirthing Breath and Sound Healing,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+597,act_0263,Yoga Sound Healing & Painting,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+598,act_0264,Red Sands Safari 4x4 Edition,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+599,act_0265,Minecraft,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+600,act_0266,RoboThink Robotics Workshop,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+601,act_0267,Robothink Monthly Subscription,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,True
+602,act_0268,Butterfly House,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+603,act_0269,Racing Session - 20 Minutes,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+604,act_0270,WWE,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+605,act_0271,Racing Sessions,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+606,act_0272,Bob's Famous,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+607,act_0273,Takenda,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,True
+608,act_0274,Merwas,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,True
+609,act_0275,Mike Tyson - Boxing Gym,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,True
+610,act_0276,RONNIE O’SULLIVAN ACADEMY,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,True
+611,act_0277,One Class Jujitsu Experience for Women & Children,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+612,act_0278,Birthday Parties at RoboThink,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+613,act_0279,National Day Offer: Horse Riding Desert Safari + Activities,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+614,act_0280,National Day Offer: Adventure Park + Open-Topped Vehicle,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+615,act_0281,National Day Offer: Camel Riding Desert Safari + Activities,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+616,act_0282,Splash,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,True
+617,act_0283,Sound Healing,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+618,act_0284,Big Fun Museum,Riyadh,True,False,,cultural,cultural,low,low,False,False,False,False,False
+619,act_0285,Woosh Center,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+620,act_0286,One Class Martial Arts Experience for Women & Children,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+621,act_0287,SPW 16,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+622,act_0288,BeyondWoosh Summer Camp,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+623,act_0289,Riyadh: A Journey Through Time,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+624,act_0290,BATTLEKART,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,True
+625,act_0291,Kayanee Stretch & Flow,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+626,act_0292,Horse Riding in Riyadh,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+627,act_0293,Red Sand Dunes Adventure,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+628,act_0294,Edge of the World Keshta via Manjour Trail,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+629,act_0295,Envision Motorsport,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+630,act_0296,Empty Quarter Desert Shenanigans,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+631,act_0297,Set off On A Camping Adventure In Riyadh,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+632,act_0298,Eid Special: Edge of the World Keshta + Free Dinner,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+633,act_0299,Eid Special: Shared Red Sands Safari + Camp Visit,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+634,act_0300,Eid Special: Horse Riding Photography Tour,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+635,act_0301,Adventure Package,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+636,act_0302,"One Day in Riyadh : Past, Present, & Future",Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+637,act_0303,Unleash Your Inner Adventurer with a Full-Day Safari,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+638,act_0304,Bluey,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+639,act_0305,Conan,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+640,act_0306,Five Nights,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+641,act_0307,Doos Karting,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+642,act_0308,Tour in Riyadh: Explore Historical Diriyah And Kingdom Tower,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+643,act_0309,Mummy and Me Yoga and Painting,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+644,act_0310,Death Maze,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+645,act_0311,Athenas,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+646,act_0312,Oasis,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+647,act_0313,Oasis,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+648,act_0314,Oasis,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+649,act_0315,Secret of Scarab,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+650,act_0316,BattleKart,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+651,act_0317,Jollas,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+652,act_0318,Kayanee Reformer Pilates,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+653,act_0319,Dior,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+654,act_0320,Dior,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+655,act_0321,SMAR,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+656,act_0322,Full Day Trip: Explore Ancient Mysteries of Central Arabia,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+657,act_0323,Layali Ramadan - Cultural Gathering,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+658,act_0324,Hike Escape,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+659,act_0325,Sounds Of Intention - Ramadan Nights,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+660,act_0326,Elite Sports Football Camp (Al Hamra),Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,high,high,False,False,False,False,False
+661,act_0327,Elite Sports - Multi-Sports Camp Al Hamra,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+662,act_0328,Discover the Ultimate Multi-Sports Camp in Riyadh,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+663,act_0329,Elite Sports Activity Camp,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+664,act_0330,Hike Escape,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+665,place_0334,جلسة رمضانية,Riyadh,True,False,,cultural,cultural,high,high,False,False,False,False,False
+666,act_0331,Yoga and Self Love Meditation and Painting,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+667,act_0332,Crossing the Empty Quarter - Um Alhesh Lake Trip,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,True
+668,act_0333,Hike Escape 7 March,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+669,act_0334,Adrenaline-Pumping Adventure: Crossing the Empty Quarter,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,True
+670,act_0335,Experience Traditional Saudi Hospitality In Riyadh,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+671,act_0336,Go Kart,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+672,act_0337,Drift Experience,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+673,act_0338,F1 Experience,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+674,act_0339,Aircraft Experience 1661,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+675,act_0340,Experience Courchevel,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+676,act_0341,Experience Courchevel,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+677,act_0342,تجربة الألعاب الحركية مع الأطفال,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+678,act_0343,Dead Wood Mansion,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+679,act_0344,A Lot Like Life,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+680,act_0345,Squid Game Virtuals,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+681,act_0346,Raw Fest (21 Feb) + Camping,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,False
+682,act_0347,Entrance Ticket - Midweek,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+683,act_0348,Entrance Ticket - Weekend,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+684,act_0349,Full Day Ushayger Tour with Lunch,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+685,place_0335,Big Fun Museum,Riyadh,True,False,,cultural,cultural,low,low,False,False,False,False,True
+686,act_0350,Dead Wood Valley,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+687,act_0351,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+688,act_0352,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+689,act_0353,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+690,act_0354,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+691,act_0355,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+692,act_0356,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+693,act_0357,Espot - Riyadh,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+694,act_0358,Snow City,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+695,act_0359,Laser Tag,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+696,act_0360,Xtreme VR,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+697,act_0361,Saffori Land,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+698,act_0362,Saffori Land,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+699,act_0363,Saffori Land,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+700,act_0364,Saffori Land,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+701,act_0365,Xtreme Inflatable,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+702,act_0366,Xtreme Bowling,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+703,act_0367,Saffori Land,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+704,act_0368,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+705,act_0369,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+706,act_0370,Go Kart,Riyadh,True,False,,adventure,adventure,free,free,False,False,False,False,False
+707,act_0371,Harry Potter,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+708,act_0372,RISE IN LOVE,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+709,act_0373,Half Day Diriyah Tour,Riyadh,True,False,,adventure,adventure,mid,mid,False,False,False,False,True
+710,act_0374,Popular Dining in Riyadh: The Famous Al Najd Village,Riyadh,True,False,,food & entertainment,food & entertainment,high,high,False,False,False,False,True
+711,act_0375,Riyadh Farm Experience,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+712,act_0376,Dunes Scheduler,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+713,act_0377,Dunes Scheduler,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+714,act_0378,Dunes Scheduler,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+715,act_0379,Dunes Scheduler,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+716,act_0380,Dunes Scheduler,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+717,act_0381,Dunes Scheduler,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+718,act_0382,Horse Track Experience,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+719,act_0383,Ease Package,Riyadh,True,True,,entertainment,entertainment,high,high,False,False,False,False,False
+720,act_0384,New Year's Eve 2025,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+721,act_0385,A Wonderful Visit to The Bird Center and Picnic Area,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,False
+722,act_0386,Oasis,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+723,act_0387,A Wonderful Visit to The Wildlife Visitor's Centre,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+724,act_0388,5-Day Adventure To The Empty Quarter,Riyadh,False,False,ambiguous_opening_hours,adventure,adventure,luxury,luxury,False,False,False,False,True
+725,act_0389,FunXtreme: High-Speed Go Karting,Riyadh,False,False,ambiguous_opening_hours,entertainment,entertainment,mid,mid,False,False,False,False,True
+726,act_0390,Horseback Riding for Women at Al Farisa Equestrian Club,Riyadh,True,False,,adventure,adventure,low,low,False,False,False,False,True
+727,act_0391,Choose Either 5 or 10 Horseback Riding Classes at Al Farisa,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,True
+728,act_0392,Glamping BeyondFit,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+729,act_0393,Explore Saudi Heritage In Riyadh,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+730,act_0394,Stargazing in The Desert,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,True
+731,act_0395,Half Day Riyadh City Tour,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+732,act_0396,Travel Through Time In Shaqra & Ushaiger,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+733,act_0397,Full Day Riyadh City Tour,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+734,act_0398,Medhal Equestrian Centre - Experience Horse Riding,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+735,act_0399,Knowledge of Design Event,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+736,act_0400,My Town,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+737,act_0401,My Town,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+738,act_0402,Half Day Riyadh City Tour,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+739,act_0403,Ride A Bike In Wadi Hanifa,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+740,act_0404,Edge Of The World With Dinner,Riyadh,True,False,,adventure,adventure,luxury,luxury,False,False,False,False,True
+741,act_0405,Capital Riyadh Tour,Riyadh,False,False,ambiguous_opening_hours,adventure,adventure,luxury,luxury,False,False,False,False,True
+742,act_0406,Half Day Dirriyah Tour (Private Tour),Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,True
+743,act_0407,Popular Dining in Riyadh: The Famous The Globe Restaurant,Riyadh,True,False,,food & entertainment,food & entertainment,high,high,False,False,False,False,True
+744,act_0408,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+745,act_0409,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+746,act_0410,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+747,act_0411,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+748,act_0412,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+749,act_0413,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+750,act_0414,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+751,act_0415,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+752,act_0416,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+753,act_0417,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+754,act_0418,The Dark Garden,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+755,act_0419,Nofa Day Pass,Riyadh,True,False,,adventure,adventure,high,high,False,False,False,False,False
+756,act_0420,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+757,act_0421,Butterfly House,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+758,act_0422,Butterfly House,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+759,act_0423,Butterfly House,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+760,act_0424,فيا رياض,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False
+761,act_0425,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+762,act_0426,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+763,act_0427,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+764,act_0428,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+765,act_0429,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+766,act_0430,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+767,act_0431,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+768,act_0432,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+769,act_0433,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+770,act_0434,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+771,act_0435,Speak Like a Saudi,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+772,act_0436,SAFARI,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+773,act_0437,Tennis,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+774,act_0438,Padel Court,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+775,act_0439,Mini Golf,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+776,act_0440,Bowling,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+777,act_0441,Cinema,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+778,act_0442,بيت الرعب,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+779,act_0443,The Legends,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+780,act_0444,BLVD World The Zone,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+781,act_0445,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+782,act_0446,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+783,act_0447,المتاهة,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+784,act_0448,Survivor Race,Riyadh,True,True,,entertainment,entertainment,mid,mid,False,False,False,False,False
+785,act_0449,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+786,act_0450,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+787,act_0451,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+788,act_0452,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+789,act_0453,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+790,act_0454,الألعاب الحركية,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+791,act_0455,"Mandarin Oriental Al Faisaliah, Riyadh",Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+792,act_0456,Masamer,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+793,act_0457,Barbie,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+794,act_0458,بيت باربي,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+795,act_0459,Kids Square,Riyadh,True,False,,family,family,free,free,False,False,False,False,False
+796,act_0460,Manara Art,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+797,act_0461,Manara Art,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+798,act_0462,Thuraya Dining,Riyadh,True,False,,food & entertainment,food & entertainment,low,low,False,False,False,False,False
+799,act_0463,Kids Square,Riyadh,True,False,,family,family,free,free,False,False,False,False,False
+800,act_0464,Thuraya Dining,Riyadh,True,False,,food & entertainment,food & entertainment,low,low,False,False,False,False,False
+801,act_0465,ليلة ألعاب جماعية في Game Night,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+802,act_0466,Shatweah Shabbh,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+803,act_0467,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+804,act_0468,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+805,act_0469,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+806,act_0470,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+807,act_0471,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+808,act_0472,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+809,act_0473,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+810,act_0474,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+811,act_0475,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+812,act_0476,Riyadh Exit Schedule,Riyadh,True,False,,entertainment,entertainment,luxury,luxury,False,False,False,False,False
+813,place_0336,CR7 Signature Museum,Riyadh,True,True,,cultural,cultural,low,low,False,False,False,False,False
+814,act_0477,Riyadh Toy Festival,Riyadh,True,False,,entertainment,entertainment,low,low,False,False,False,False,False
+815,act_0478,بيت الرعب,Riyadh,True,True,,entertainment,entertainment,low,low,False,False,False,False,False
+816,act_0479,Disney The Castle Schedule,Riyadh,True,False,,entertainment,entertainment,mid,mid,False,False,False,False,False
+817,act_0480,Disney The Castle Schedule,Riyadh,True,False,,entertainment,entertainment,high,high,False,False,False,False,False
+818,act_0481,Wonder Garden Gifts,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+819,act_0482,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+820,act_0483,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+821,act_0484,Riyadh Zoo,Riyadh,True,False,,entertainment,entertainment,free,free,False,False,False,False,False
+822,act_0485,Zero Latency,Riyadh,True,True,,entertainment,entertainment,free,free,False,False,False,False,False

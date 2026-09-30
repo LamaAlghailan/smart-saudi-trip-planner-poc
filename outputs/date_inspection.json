@@ -1,0 +1,72 @@
+{
+  "columns": [
+    "AvailableDate",
+    "EndDate",
+    "StartTime",
+    "EndTime",
+    "Is_year_Around"
+  ],
+  "date_formats": {
+    "AvailableDate": {
+      "%Y-%m-%d": 41,
+      "%m/%d/%Y": 735,
+      "%m/%d/%Y %H:%M": 10,
+      "unknown/invalid": 35
+    },
+    "EndDate": {
+      "%m/%d/%Y": 821
+    }
+  },
+  "diagnostics": {
+    "unknown_available_from": 35,
+    "unknown_available_until": 0,
+    "reversed_date_range": 74,
+    "boolean_like_date": 35
+  },
+  "invalid_opening_hours": 45,
+  "ambiguous_opening_hours": 14,
+  "raw_year_round_flags": {
+    "TRUE": 322,
+    "FALSE": 464,
+    "mid": 23,
+    "high": 6,
+    "low": 6
+  },
+  "validated_year_round": 205,
+  "year_round_rule": "Otherwise valid TRUE records use date.min/date.max; malformed/reversed source ranges are still quarantined. FALSE records retain inclusive source bounds.",
+  "source_records": 821,
+  "validated_records": 611,
+  "sample": {
+    "birth_country": "India",
+    "trip_start": "2026-10-15",
+    "trip_end": "2026-10-17",
+    "trip_days": 3,
+    "adults": 2,
+    "children": 0,
+    "budget": 1000
+  },
+  "sample_counts": {
+    "Basic / No WVS": {
+      "validated_count": 611,
+      "validated_active_count": 289,
+      "before_date_filter": 270,
+      "after_date_filter": 165,
+      "excluded_by_dates": 105,
+      "city_count": 4,
+      "activity_count": 25,
+      "effective_activity_limit": 8,
+      "package_bytes": 19666
+    },
+    "WVS Cold-Start": {
+      "validated_count": 611,
+      "validated_active_count": 289,
+      "before_date_filter": 270,
+      "after_date_filter": 165,
+      "excluded_by_dates": 105,
+      "city_count": 4,
+      "activity_count": 25,
+      "effective_activity_limit": 8,
+      "package_bytes": 33001
+    }
+  }
+}

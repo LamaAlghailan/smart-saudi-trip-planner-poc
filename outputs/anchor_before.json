@@ -1,0 +1,2602 @@
+{
+  "Basic / No WVS": {
+    "rankings": [
+      {
+        "city": "Unaizah",
+        "retrieval_score": 96.805,
+        "components": {
+          "group": 1.0,
+          "quality": 0.9148
+        },
+        "contributions": {
+          "group": 62.5,
+          "quality": 34.305
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0043",
+          "1": "place_0048",
+          "2": "place_0053"
+        },
+        "available_count": 5,
+        "candidate_count": 5,
+        "category_distribution": {
+          "cultural": 0.4,
+          "nature": 0.4,
+          "urban": 0.2
+        },
+        "environment_distribution": {
+          "Indoor": 0.4,
+          "Outdoor": 0.6
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 1
+      },
+      {
+        "city": "Buraydah",
+        "retrieval_score": 96.23124999999999,
+        "components": {
+          "group": 1.0,
+          "quality": 0.8995
+        },
+        "contributions": {
+          "group": 62.5,
+          "quality": 33.731249999999996
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0047",
+          "1": "place_0050",
+          "2": "place_0051"
+        },
+        "available_count": 8,
+        "candidate_count": 8,
+        "category_distribution": {
+          "cultural": 0.375,
+          "nature": 0.5,
+          "urban": 0.125
+        },
+        "environment_distribution": {
+          "Indoor": 0.25,
+          "Outdoor": 0.75
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 2
+      },
+      {
+        "city": "Tabuk",
+        "retrieval_score": 95.575,
+        "components": {
+          "group": 1.0,
+          "quality": 0.882
+        },
+        "contributions": {
+          "group": 62.5,
+          "quality": 33.075
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0068",
+          "1": "place_0069",
+          "2": "place_0070"
+        },
+        "available_count": 14,
+        "candidate_count": 14,
+        "category_distribution": {
+          "cultural": 0.42857142857142855,
+          "nature": 0.2857142857142857,
+          "urban": 0.2857142857142857
+        },
+        "environment_distribution": {
+          "Indoor": 0.35714285714285715,
+          "Outdoor": 0.6428571428571429
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 3
+      },
+      {
+        "city": "Farasan",
+        "retrieval_score": 94.16875,
+        "components": {
+          "group": 0.9625,
+          "quality": 0.907
+        },
+        "contributions": {
+          "group": 60.15625,
+          "quality": 34.0125
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0033",
+          "1": "place_0313",
+          "2": "place_0034"
+        },
+        "available_count": 4,
+        "candidate_count": 4,
+        "category_distribution": {
+          "adventure": 0.5,
+          "cultural": 0.25,
+          "nature": 0.25
+        },
+        "environment_distribution": {
+          "Outdoor": 1.0
+        },
+        "budget_distribution": {
+          "high": 0.75,
+          "low": 0.25
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 4
+      },
+      {
+        "city": "Al Makhwah",
+        "retrieval_score": 93.49375,
+        "components": {
+          "group": 1.0,
+          "quality": 0.8265
+        },
+        "contributions": {
+          "group": 62.5,
+          "quality": 30.993750000000002
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0292",
+          "1": "place_0299",
+          "2": "act_0016"
+        },
+        "available_count": 4,
+        "candidate_count": 4,
+        "category_distribution": {
+          "adventure": 0.25,
+          "cultural": 0.75
+        },
+        "environment_distribution": {
+          "Outdoor": 1.0
+        },
+        "budget_distribution": {
+          "low": 0.5,
+          "mid": 0.5
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 5
+      },
+      {
+        "city": "Al Baha",
+        "retrieval_score": 92.90096153846154,
+        "components": {
+          "group": 0.9942307692307693,
+          "quality": 0.8203076923076923
+        },
+        "contributions": {
+          "group": 62.13942307692308,
+          "quality": 30.76153846153846
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0039",
+          "1": "place_0040",
+          "2": "place_0291"
+        },
+        "available_count": 13,
+        "candidate_count": 13,
+        "category_distribution": {
+          "adventure": 0.23076923076923078,
+          "cultural": 0.23076923076923078,
+          "family": 0.15384615384615385,
+          "food & entertainment": 0.07692307692307693,
+          "leisure": 0.07692307692307693,
+          "nature": 0.23076923076923078
+        },
+        "environment_distribution": {
+          "Both": 0.15384615384615385,
+          "Indoor": 0.15384615384615385,
+          "Outdoor": 0.6923076923076923
+        },
+        "budget_distribution": {
+          "high": 0.15384615384615385,
+          "low": 0.6923076923076923,
+          "mid": 0.15384615384615385
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 6
+      },
+      {
+        "city": "Jazan",
+        "retrieval_score": 92.721875,
+        "components": {
+          "group": 0.959375,
+          "quality": 0.873625
+        },
+        "contributions": {
+          "group": 59.9609375,
+          "quality": 32.7609375
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0032",
+          "1": "place_0302",
+          "2": "place_0304"
+        },
+        "available_count": 16,
+        "candidate_count": 16,
+        "category_distribution": {
+          "adventure": 0.0625,
+          "cultural": 0.1875,
+          "entertainment": 0.1875,
+          "leisure": 0.0625,
+          "nature": 0.25,
+          "shopping": 0.25
+        },
+        "environment_distribution": {
+          "Both": 0.125,
+          "Indoor": 0.1875,
+          "Outdoor": 0.6875
+        },
+        "budget_distribution": {
+          "low": 0.625,
+          "mid": 0.375
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 7
+      },
+      {
+        "city": "Abha",
+        "retrieval_score": 91.85,
+        "components": {
+          "group": 0.95,
+          "quality": 0.866
+        },
+        "contributions": {
+          "group": 59.375,
+          "quality": 32.475
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "act_0001",
+          "1": "place_0025",
+          "2": "place_0027"
+        },
+        "available_count": 5,
+        "candidate_count": 5,
+        "category_distribution": {
+          "adventure": 0.2,
+          "cultural": 0.2,
+          "family": 0.2,
+          "nature": 0.4
+        },
+        "environment_distribution": {
+          "Both": 0.2,
+          "Outdoor": 0.8
+        },
+        "budget_distribution": {
+          "low": 0.6,
+          "mid": 0.4
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 8
+      },
+      {
+        "city": "Najran",
+        "retrieval_score": 90.71847826086957,
+        "components": {
+          "group": 0.9565217391304348,
+          "quality": 0.8249565217391305
+        },
+        "contributions": {
+          "group": 59.78260869565218,
+          "quality": 30.93586956521739
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0036",
+          "1": "place_0037",
+          "2": "place_0038"
+        },
+        "available_count": 23,
+        "candidate_count": 23,
+        "category_distribution": {
+          "adventure": 0.043478260869565216,
+          "cultural": 0.6086956521739131,
+          "entertainment": 0.08695652173913043,
+          "nature": 0.2608695652173913
+        },
+        "environment_distribution": {
+          "Both": 0.08695652173913043,
+          "Indoor": 0.17391304347826086,
+          "Outdoor": 0.7391304347826086
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 9
+      },
+      {
+        "city": "Baljurashi",
+        "retrieval_score": 90.41875,
+        "components": {
+          "group": 1.0,
+          "quality": 0.7444999999999999
+        },
+        "contributions": {
+          "group": 62.5,
+          "quality": 27.91875
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "act_0012",
+          "1": "place_0295",
+          "2": "place_0296"
+        },
+        "available_count": 4,
+        "candidate_count": 4,
+        "category_distribution": {
+          "leisure": 0.75,
+          "nature": 0.25
+        },
+        "environment_distribution": {
+          "Outdoor": 1.0
+        },
+        "budget_distribution": {
+          "low": 0.75,
+          "mid": 0.25
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 10
+      },
+      {
+        "city": "Riyadh",
+        "retrieval_score": 87.98579545454545,
+        "components": {
+          "group": 0.9738636363636364,
+          "quality": 0.7231818181818181
+        },
+        "contributions": {
+          "group": 60.86647727272727,
+          "quality": 27.11931818181818
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "act_0273",
+          "1": "act_0274",
+          "2": "act_0275"
+        },
+        "available_count": 22,
+        "candidate_count": 22,
+        "category_distribution": {
+          "cultural": 0.18181818181818182,
+          "entertainment": 0.7727272727272727,
+          "nature": 0.045454545454545456
+        },
+        "environment_distribution": {
+          "Both": 0.13636363636363635,
+          "Indoor": 0.7727272727272727,
+          "Outdoor": 0.09090909090909091
+        },
+        "budget_distribution": {
+          "free": 0.18181818181818182,
+          "high": 0.22727272727272727,
+          "low": 0.2727272727272727,
+          "mid": 0.3181818181818182
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 11
+      },
+      {
+        "city": "Al Kharj",
+        "retrieval_score": 86.62916666666666,
+        "components": {
+          "group": 0.9416666666666667,
+          "quality": 0.7406666666666667
+        },
+        "contributions": {
+          "group": 58.854166666666664,
+          "quality": 27.775000000000002
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0011",
+          "1": "place_0012",
+          "2": "place_0013"
+        },
+        "available_count": 3,
+        "candidate_count": 3,
+        "category_distribution": {
+          "cultural": 0.3333333333333333,
+          "entertainment": 0.3333333333333333,
+          "nature": 0.3333333333333333
+        },
+        "environment_distribution": {
+          "Indoor": 0.3333333333333333,
+          "Outdoor": 0.6666666666666666
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 12
+      }
+    ],
+    "payload": {
+      "mode": "Basic / No WVS",
+      "tourist_facts": {
+        "birth_country": "India",
+        "start_date": "2026-10-15",
+        "end_date": "2026-10-17",
+        "budget": 1000,
+        "adults": 2,
+        "children": 0,
+        "youngest_age": null,
+        "oldest_age": null,
+        "trip_days": 3
+      },
+      "trip_start": "2026-10-15",
+      "trip_end": "2026-10-17",
+      "trip_days": 3,
+      "planning_constraints": {
+        "day_start": "09:00",
+        "day_end": "22:00",
+        "max_activities_per_day": 3,
+        "transfer_minutes": 30,
+        "pricing": "SAR per traveler; GroupCost = Price * (adults + children); no child discount",
+        "availability": "Inclusive normalized intervals; unknown availability excluded. Year-round validated records use 0001-01-01 through 9999-12-31.",
+        "unknown_ages": "Age bounds not supplied must not be invented."
+      },
+      "candidate_cities": [
+        {
+          "city": "Unaizah",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0043",
+              "ItemName": "Al-Musawkaf Market",
+              "City": "Unaizah",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 120.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 98.275,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.6
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0046",
+              "ItemName": "Al-Bassam Heritage House",
+              "City": "Unaizah",
+              "Category": "cultural",
+              "Environment": "Indoor",
+              "GroupCost": 30.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "09:00",
+              "closes": "21:00",
+              "retrieval_score": 97.525,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.85,
+                "SuitableForInfants": 0.5
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0048",
+              "ItemName": "Al-Hajeb Parks",
+              "City": "Unaizah",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 120.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "00:00",
+              "retrieval_score": 97.45,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.95,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0055",
+              "ItemName": "Uneyzah Mall",
+              "City": "Unaizah",
+              "Category": "urban",
+              "Environment": "Indoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 150.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "10:00",
+              "closes": "23:00",
+              "retrieval_score": 97.225,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.95,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 90.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0053",
+              "ItemName": "Al-Aoshaziyah Lake",
+              "City": "Unaizah",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 120.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "19:00",
+              "retrieval_score": 93.55,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.8,
+                "SuitableForInfants": 0.5
+              },
+              "MinAge": 0.0,
+              "MaxAge": 75.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Buraydah",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0054",
+              "ItemName": "Al-Nakheel Mall Buraydah",
+              "City": "Buraydah",
+              "Category": "urban",
+              "Environment": "Indoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 180.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "10:00",
+              "closes": "23:30",
+              "retrieval_score": 98.725,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.95,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 90.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0042",
+              "ItemName": "Al-Uqailat Museum",
+              "City": "Buraydah",
+              "Category": "cultural",
+              "Environment": "Indoor",
+              "GroupCost": 30.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "09:00",
+              "closes": "21:00",
+              "retrieval_score": 97.3,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.85,
+                "SuitableForInfants": 0.5
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0050",
+              "ItemName": "Buraydah Water Tower",
+              "City": "Buraydah",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 45.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "22:00",
+              "retrieval_score": 96.025,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.7
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "21:15"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "21:15"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "21:15"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0047",
+              "ItemName": "King Khalid Wildlife Park",
+              "City": "Buraydah",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 180.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 95.95,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 1.0,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0051",
+              "ItemName": "Al-Jarad Heritage Market",
+              "City": "Buraydah",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 94.975,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.85,
+                "SuitableForInfants": 0.6
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Tabuk",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0068",
+              "ItemName": "Tabuk Park Mall",
+              "City": "Tabuk",
+              "Category": "urban",
+              "Environment": "Indoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 180.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "09:00",
+              "closes": "00:00",
+              "retrieval_score": 97.75,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.95,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 90.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0070",
+              "ItemName": "Jabal Al-Lawz",
+              "City": "Tabuk",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 300.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "07:00",
+              "closes": "17:00",
+              "retrieval_score": 97.3,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.8,
+                "SuitableForInfants": 0.4
+              },
+              "MinAge": 5.0,
+              "MaxAge": 75.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0080",
+              "ItemName": "Tabuk Regional Museum",
+              "City": "Tabuk",
+              "Category": "cultural",
+              "Environment": "Indoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "09:00",
+              "closes": "19:00",
+              "retrieval_score": 97.075,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 90.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0077",
+              "ItemName": "Hegjaz Railway Station",
+              "City": "Tabuk",
+              "Category": "cultural",
+              "Environment": "Indoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 60.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "18:00",
+              "retrieval_score": 96.625,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.85,
+                "SuitableForInfants": 0.5
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0069",
+              "ItemName": "Boulevard Tabuk",
+              "City": "Tabuk",
+              "Category": "urban",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 150.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "02:00",
+              "retrieval_score": 96.475,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.7
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:30"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Farasan",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0317",
+              "ItemName": "Farasan Snorkeling & Diving",
+              "City": "Farasan",
+              "Category": "adventure",
+              "Environment": "Outdoor",
+              "GroupCost": 600.0,
+              "DurationMinutes": 240.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "16:00",
+              "retrieval_score": 94.55,
+              "Suitability": {
+                "SuitableForAdults": 0.95,
+                "SuitableForChildren": 0.4,
+                "SuitableForInfants": 0.05
+              },
+              "MinAge": 10.0,
+              "MaxAge": 55.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0033",
+              "ItemName": "Farasan Islands Trip",
+              "City": "Farasan",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 240.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "07:00",
+              "closes": "17:00",
+              "retrieval_score": 91.575,
+              "Suitability": {
+                "SuitableForAdults": 0.9,
+                "SuitableForChildren": 0.65,
+                "SuitableForInfants": 0.3
+              },
+              "MinAge": 6.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "13:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "13:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "13:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0313",
+              "ItemName": "Farasan Island Archaeological Site",
+              "City": "Farasan",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "17:00",
+              "retrieval_score": 91.325,
+              "Suitability": {
+                "SuitableForAdults": 0.95,
+                "SuitableForChildren": 0.7,
+                "SuitableForInfants": 0.3
+              },
+              "MinAge": 6.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "15:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "15:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "15:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0034",
+              "ItemName": "Farasan Boat Tour",
+              "City": "Farasan",
+              "Category": "adventure",
+              "Environment": "Outdoor",
+              "GroupCost": 300.0,
+              "DurationMinutes": 120.0,
+              "available_from": "2026-01-01",
+              "available_until": "2026-12-30",
+              "opens": "07:00",
+              "closes": "16:00",
+              "retrieval_score": 89.85,
+              "Suitability": {
+                "SuitableForAdults": 0.9,
+                "SuitableForChildren": 0.6,
+                "SuitableForInfants": 0.25
+              },
+              "MinAge": 8.0,
+              "MaxAge": 65.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "14:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "14:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "14:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "WVS Cold-Start": {
+    "rankings": [
+      {
+        "city": "Farasan",
+        "retrieval_score": 88.96041812036657,
+        "components": {
+          "category": 0.6971843018788279,
+          "hobby": 0.603214493220944,
+          "environment": 0.9345841511680246,
+          "group": 0.9625,
+          "quality": 0.907
+        },
+        "contributions": {
+          "quality": 81.63,
+          "category": 3.485921509394139,
+          "hobby": 1.50803623305236,
+          "environment": 2.3364603779200617
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0033",
+          "1": "place_0313",
+          "2": "place_0034"
+        },
+        "available_count": 4,
+        "candidate_count": 4,
+        "category_distribution": {
+          "adventure": 0.5,
+          "cultural": 0.25,
+          "nature": 0.25
+        },
+        "environment_distribution": {
+          "Outdoor": 1.0
+        },
+        "budget_distribution": {
+          "high": 0.75,
+          "low": 0.25
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 1
+      },
+      {
+        "city": "Unaizah",
+        "retrieval_score": 87.99530086400797,
+        "components": {
+          "category": 0.5386945822838406,
+          "hobby": 0.46690266923232315,
+          "environment": 0.721028511803185,
+          "group": 1.0,
+          "quality": 0.9148
+        },
+        "contributions": {
+          "quality": 82.332,
+          "category": 2.693472911419203,
+          "hobby": 1.1672566730808078,
+          "environment": 1.8025712795079625
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0043",
+          "1": "place_0048",
+          "2": "place_0053"
+        },
+        "available_count": 5,
+        "candidate_count": 5,
+        "category_distribution": {
+          "cultural": 0.4,
+          "nature": 0.4,
+          "urban": 0.2
+        },
+        "environment_distribution": {
+          "Indoor": 0.4,
+          "Outdoor": 0.6
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 2
+      },
+      {
+        "city": "Buraydah",
+        "retrieval_score": 86.95116613429748,
+        "components": {
+          "category": 0.5475137014924669,
+          "hobby": 0.5023271741690537,
+          "environment": 0.8011118765649998,
+          "group": 1.0,
+          "quality": 0.8995
+        },
+        "contributions": {
+          "quality": 80.955,
+          "category": 2.737568507462335,
+          "hobby": 1.2558179354226342,
+          "environment": 2.0027796914124996
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0047",
+          "1": "place_0050",
+          "2": "place_0051"
+        },
+        "available_count": 8,
+        "candidate_count": 8,
+        "category_distribution": {
+          "cultural": 0.375,
+          "nature": 0.5,
+          "urban": 0.125
+        },
+        "environment_distribution": {
+          "Indoor": 0.25,
+          "Outdoor": 0.75
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 3
+      },
+      {
+        "city": "Jazan",
+        "retrieval_score": 84.87608860892504,
+        "components": {
+          "category": 0.6128029452231399,
+          "hobby": 0.5353044168220417,
+          "environment": 0.7390251363016951,
+          "group": 0.959375,
+          "quality": 0.873625
+        },
+        "contributions": {
+          "quality": 78.62625,
+          "category": 3.0640147261157,
+          "hobby": 1.3382610420551042,
+          "environment": 1.8475628407542377
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0032",
+          "1": "place_0302",
+          "2": "place_0304"
+        },
+        "available_count": 16,
+        "candidate_count": 16,
+        "category_distribution": {
+          "adventure": 0.0625,
+          "cultural": 0.1875,
+          "entertainment": 0.1875,
+          "leisure": 0.0625,
+          "nature": 0.25,
+          "shopping": 0.25
+        },
+        "environment_distribution": {
+          "Both": 0.125,
+          "Indoor": 0.1875,
+          "Outdoor": 0.6875
+        },
+        "budget_distribution": {
+          "low": 0.625,
+          "mid": 0.375
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 4
+      },
+      {
+        "city": "Tabuk",
+        "retrieval_score": 84.59024839576612,
+        "components": {
+          "category": 0.4682082369891566,
+          "hobby": 0.4037734111644328,
+          "environment": 0.7439094731637035,
+          "group": 1.0,
+          "quality": 0.882
+        },
+        "contributions": {
+          "quality": 79.38,
+          "category": 2.341041184945783,
+          "hobby": 1.009433527911082,
+          "environment": 1.8597736829092586
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0068",
+          "1": "place_0069",
+          "2": "place_0070"
+        },
+        "available_count": 14,
+        "candidate_count": 14,
+        "category_distribution": {
+          "cultural": 0.42857142857142855,
+          "nature": 0.2857142857142857,
+          "urban": 0.2857142857142857
+        },
+        "environment_distribution": {
+          "Indoor": 0.35714285714285715,
+          "Outdoor": 0.6428571428571429
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 5
+      },
+      {
+        "city": "Abha",
+        "retrieval_score": 84.04537075749079,
+        "components": {
+          "category": 0.5733016180114957,
+          "hobby": 0.5136886100677962,
+          "environment": 0.7818564569055271,
+          "group": 0.95,
+          "quality": 0.866
+        },
+        "contributions": {
+          "quality": 77.94,
+          "category": 2.8665080900574784,
+          "hobby": 1.2842215251694906,
+          "environment": 1.9546411422638177
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "act_0001",
+          "1": "place_0025",
+          "2": "place_0027"
+        },
+        "available_count": 5,
+        "candidate_count": 5,
+        "category_distribution": {
+          "adventure": 0.2,
+          "cultural": 0.2,
+          "family": 0.2,
+          "nature": 0.4
+        },
+        "environment_distribution": {
+          "Both": 0.2,
+          "Outdoor": 0.8
+        },
+        "budget_distribution": {
+          "low": 0.6,
+          "mid": 0.4
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 6
+      },
+      {
+        "city": "Al Baha",
+        "retrieval_score": 79.84571652425839,
+        "components": {
+          "category": 0.574235428375855,
+          "hobby": 0.5237743048181753,
+          "environment": 0.7349645250565497,
+          "group": 0.9942307692307693,
+          "quality": 0.8203076923076923
+        },
+        "contributions": {
+          "quality": 73.8276923076923,
+          "category": 2.871177141879275,
+          "hobby": 1.3094357620454384,
+          "environment": 1.8374113126413745
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0039",
+          "1": "place_0040",
+          "2": "place_0291"
+        },
+        "available_count": 13,
+        "candidate_count": 13,
+        "category_distribution": {
+          "adventure": 0.23076923076923078,
+          "cultural": 0.23076923076923078,
+          "family": 0.15384615384615385,
+          "food & entertainment": 0.07692307692307693,
+          "leisure": 0.07692307692307693,
+          "nature": 0.23076923076923078
+        },
+        "environment_distribution": {
+          "Both": 0.15384615384615385,
+          "Indoor": 0.15384615384615385,
+          "Outdoor": 0.6923076923076923
+        },
+        "budget_distribution": {
+          "high": 0.15384615384615385,
+          "low": 0.6923076923076923,
+          "mid": 0.15384615384615385
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 7
+      },
+      {
+        "city": "Al Makhwah",
+        "retrieval_score": 79.11962097115716,
+        "components": {
+          "category": 0.35289557370360014,
+          "hobby": 0.2534730898876397,
+          "environment": 0.9345841511680246,
+          "group": 1.0,
+          "quality": 0.8265
+        },
+        "contributions": {
+          "quality": 74.385,
+          "category": 1.7644778685180007,
+          "hobby": 0.6336827247190993,
+          "environment": 2.3364603779200617
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0292",
+          "1": "place_0299",
+          "2": "act_0016"
+        },
+        "available_count": 4,
+        "candidate_count": 4,
+        "category_distribution": {
+          "adventure": 0.25,
+          "cultural": 0.75
+        },
+        "environment_distribution": {
+          "Outdoor": 1.0
+        },
+        "budget_distribution": {
+          "low": 0.5,
+          "mid": 0.5
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 8
+      },
+      {
+        "city": "Najran",
+        "retrieval_score": 78.89434080726852,
+        "components": {
+          "category": 0.386990144171603,
+          "hobby": 0.3099907241037145,
+          "environment": 0.7753305278517911,
+          "group": 0.9565217391304348,
+          "quality": 0.8249565217391305
+        },
+        "contributions": {
+          "quality": 74.24608695652174,
+          "category": 1.934950720858015,
+          "hobby": 0.7749768102592862,
+          "environment": 1.9383263196294778
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0036",
+          "1": "place_0037",
+          "2": "place_0038"
+        },
+        "available_count": 23,
+        "candidate_count": 23,
+        "category_distribution": {
+          "adventure": 0.043478260869565216,
+          "cultural": 0.6086956521739131,
+          "entertainment": 0.08695652173913043,
+          "nature": 0.2608695652173913
+        },
+        "environment_distribution": {
+          "Both": 0.08695652173913043,
+          "Indoor": 0.17391304347826086,
+          "Outdoor": 0.7391304347826086
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 9
+      },
+      {
+        "city": "Baljurashi",
+        "retrieval_score": 74.93070369282185,
+        "components": {
+          "category": 0.7507983800093629,
+          "hobby": 0.7341005659419909,
+          "environment": 0.9345841511680246,
+          "group": 1.0,
+          "quality": 0.7444999999999999
+        },
+        "contributions": {
+          "quality": 67.005,
+          "category": 3.753991900046815,
+          "hobby": 1.8352514148549772,
+          "environment": 2.3364603779200617
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "act_0012",
+          "1": "place_0295",
+          "2": "place_0296"
+        },
+        "available_count": 4,
+        "candidate_count": 4,
+        "category_distribution": {
+          "leisure": 0.75,
+          "nature": 0.25
+        },
+        "environment_distribution": {
+          "Outdoor": 1.0
+        },
+        "budget_distribution": {
+          "low": 0.75,
+          "mid": 0.25
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 10
+      },
+      {
+        "city": "Al Kharj",
+        "retrieval_score": 71.67832055518838,
+        "components": {
+          "category": 0.4348849749965868,
+          "hobby": 0.38093715371818976,
+          "environment": 0.7566211183639916,
+          "group": 0.9416666666666667,
+          "quality": 0.7406666666666667
+        },
+        "contributions": {
+          "quality": 66.66,
+          "category": 2.174424874982934,
+          "hobby": 0.9523428842954744,
+          "environment": 1.891552795909979
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "place_0011",
+          "1": "place_0012",
+          "2": "place_0013"
+        },
+        "available_count": 3,
+        "candidate_count": 3,
+        "category_distribution": {
+          "cultural": 0.3333333333333333,
+          "entertainment": 0.3333333333333333,
+          "nature": 0.3333333333333333
+        },
+        "environment_distribution": {
+          "Indoor": 0.3333333333333333,
+          "Outdoor": 0.6666666666666666
+        },
+        "budget_distribution": {
+          "low": 1.0
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 11
+      },
+      {
+        "city": "Riyadh",
+        "retrieval_score": 68.52020413743016,
+        "components": {
+          "category": 0.3527654735523923,
+          "hobby": 0.2501042879239421,
+          "environment": 0.4179009653978816,
+          "group": 0.9738636363636364,
+          "quality": 0.7231818181818181
+        },
+        "contributions": {
+          "quality": 65.08636363636363,
+          "category": 1.7638273677619614,
+          "hobby": 0.6252607198098553,
+          "environment": 1.044752413494704
+        },
+        "supports_all_days": true,
+        "daily_anchor_ids": {
+          "0": "act_0273",
+          "1": "act_0274",
+          "2": "act_0275"
+        },
+        "available_count": 22,
+        "candidate_count": 22,
+        "category_distribution": {
+          "cultural": 0.18181818181818182,
+          "entertainment": 0.7727272727272727,
+          "nature": 0.045454545454545456
+        },
+        "environment_distribution": {
+          "Both": 0.13636363636363635,
+          "Indoor": 0.7727272727272727,
+          "Outdoor": 0.09090909090909091
+        },
+        "budget_distribution": {
+          "free": 0.18181818181818182,
+          "high": 0.22727272727272727,
+          "low": 0.2727272727272727,
+          "mid": 0.3181818181818182
+        },
+        "group_compatible_fraction": 1.0,
+        "rank": 12
+      }
+    ],
+    "payload": {
+      "mode": "WVS Cold-Start",
+      "tourist_facts": {
+        "birth_country": "India",
+        "start_date": "2026-10-15",
+        "end_date": "2026-10-17",
+        "budget": 1000,
+        "adults": 2,
+        "children": 0,
+        "youngest_age": null,
+        "oldest_age": null,
+        "trip_days": 3
+      },
+      "trip_start": "2026-10-15",
+      "trip_end": "2026-10-17",
+      "trip_days": 3,
+      "planning_constraints": {
+        "day_start": "09:00",
+        "day_end": "22:00",
+        "max_activities_per_day": 3,
+        "transfer_minutes": 30,
+        "pricing": "SAR per traveler; GroupCost = Price * (adults + children); no child discount",
+        "availability": "Inclusive normalized intervals; unknown availability excluded. Year-round validated records use 0001-01-01 through 9999-12-31.",
+        "unknown_ages": "Age bounds not supplied must not be invented."
+      },
+      "candidate_cities": [
+        {
+          "city": "Farasan",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0033",
+              "ItemName": "Farasan Islands Trip",
+              "City": "Farasan",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 240.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "07:00",
+              "closes": "17:00",
+              "retrieval_score": 93.4173,
+              "Suitability": {
+                "SuitableForAdults": 0.9,
+                "SuitableForChildren": 0.65,
+                "SuitableForInfants": 0.3
+              },
+              "MinAge": 6.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "13:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "13:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "13:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0317",
+              "ItemName": "Farasan Snorkeling & Diving",
+              "City": "Farasan",
+              "Category": "adventure",
+              "Environment": "Outdoor",
+              "GroupCost": 600.0,
+              "DurationMinutes": 240.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "16:00",
+              "retrieval_score": 93.0573,
+              "Suitability": {
+                "SuitableForAdults": 0.95,
+                "SuitableForChildren": 0.4,
+                "SuitableForInfants": 0.05
+              },
+              "MinAge": 10.0,
+              "MaxAge": 55.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0034",
+              "ItemName": "Farasan Boat Tour",
+              "City": "Farasan",
+              "Category": "adventure",
+              "Environment": "Outdoor",
+              "GroupCost": 300.0,
+              "DurationMinutes": 120.0,
+              "available_from": "2026-01-01",
+              "available_until": "2026-12-30",
+              "opens": "07:00",
+              "closes": "16:00",
+              "retrieval_score": 89.2773,
+              "Suitability": {
+                "SuitableForAdults": 0.9,
+                "SuitableForChildren": 0.6,
+                "SuitableForInfants": 0.25
+              },
+              "MinAge": 8.0,
+              "MaxAge": 65.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "14:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "14:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "14:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0313",
+              "ItemName": "Farasan Island Archaeological Site",
+              "City": "Farasan",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "17:00",
+              "retrieval_score": 80.0896,
+              "Suitability": {
+                "SuitableForAdults": 0.95,
+                "SuitableForChildren": 0.7,
+                "SuitableForInfants": 0.3
+              },
+              "MinAge": 6.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "15:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "15:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "15:30"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Unaizah",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0048",
+              "ItemName": "Al-Hajeb Parks",
+              "City": "Unaizah",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 120.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "00:00",
+              "retrieval_score": 91.8057,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.95,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0055",
+              "ItemName": "Uneyzah Mall",
+              "City": "Unaizah",
+              "Category": "urban",
+              "Environment": "Indoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 150.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "10:00",
+              "closes": "23:00",
+              "retrieval_score": 90.3205,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.95,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 90.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0043",
+              "ItemName": "Al-Musawkaf Market",
+              "City": "Unaizah",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 120.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 89.2696,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.6
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0046",
+              "ItemName": "Al-Bassam Heritage House",
+              "City": "Unaizah",
+              "Category": "cultural",
+              "Environment": "Indoor",
+              "GroupCost": 30.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "09:00",
+              "closes": "21:00",
+              "retrieval_score": 86.1349,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.85,
+                "SuitableForInfants": 0.5
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "19:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0053",
+              "ItemName": "Al-Aoshaziyah Lake",
+              "City": "Unaizah",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 120.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "19:00",
+              "retrieval_score": 82.4457,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.8,
+                "SuitableForInfants": 0.5
+              },
+              "MinAge": 0.0,
+              "MaxAge": 75.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "17:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Buraydah",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0054",
+              "ItemName": "Al-Nakheel Mall Buraydah",
+              "City": "Buraydah",
+              "Category": "urban",
+              "Environment": "Indoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 180.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "10:00",
+              "closes": "23:30",
+              "retrieval_score": 93.9205,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.95,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 90.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "10:00",
+                  "latest_start": "19:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0060",
+              "ItemName": "Garden of Al-Montazah",
+              "City": "Buraydah",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "00:00",
+              "retrieval_score": 90.1857,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 1.0,
+                "SuitableForInfants": 0.9
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0047",
+              "ItemName": "King Khalid Wildlife Park",
+              "City": "Buraydah",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 180.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 88.2057,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 1.0,
+                "SuitableForInfants": 0.8
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "19:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0050",
+              "ItemName": "Buraydah Water Tower",
+              "City": "Buraydah",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 45.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "22:00",
+              "retrieval_score": 84.0002,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.7
+              },
+              "MinAge": 0.0,
+              "MaxAge": 85.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "21:15"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "21:15"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "21:15"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0051",
+              "ItemName": "Al-Jarad Heritage Market",
+              "City": "Buraydah",
+              "Category": "cultural",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 81.3496,
+              "Suitability": {
+                "SuitableForAdults": 1.0,
+                "SuitableForChildren": 0.85,
+                "SuitableForInfants": 0.6
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "city": "Jazan",
+          "candidate_activities": [
+            {
+              "ItemId": "place_0301",
+              "ItemName": "Farasan Islands Marine Reserve",
+              "City": "Jazan",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 100.0,
+              "DurationMinutes": 360.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "07:00",
+              "closes": "17:00",
+              "retrieval_score": 95.7573,
+              "Suitability": {
+                "SuitableForAdults": 0.95,
+                "SuitableForChildren": 0.7,
+                "SuitableForInfants": 0.1
+              },
+              "MinAge": 8.0,
+              "MaxAge": 65.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "11:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "11:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "11:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0304",
+              "ItemName": "Wadi Lajab Canyon",
+              "City": "Jazan",
+              "Category": "adventure",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 240.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "07:00",
+              "closes": "16:00",
+              "retrieval_score": 92.7057,
+              "Suitability": {
+                "SuitableForAdults": 0.92,
+                "SuitableForChildren": 0.45,
+                "SuitableForInfants": 0.05
+              },
+              "MinAge": 12.0,
+              "MaxAge": 60.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "12:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0302",
+              "ItemName": "Jazan Corniche & Beach",
+              "City": "Jazan",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 88.5573,
+              "Suitability": {
+                "SuitableForAdults": 0.92,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.75
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0307",
+              "ItemName": "Habalah Hanging Village Viewpoint",
+              "City": "Jazan",
+              "Category": "nature",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 120.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "08:00",
+              "closes": "18:00",
+              "retrieval_score": 87.6657,
+              "Suitability": {
+                "SuitableForAdults": 0.9,
+                "SuitableForChildren": 0.55,
+                "SuitableForInfants": 0.1
+              },
+              "MinAge": 10.0,
+              "MaxAge": 70.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "16:00"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "16:00"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "09:00",
+                  "latest_start": "16:00"
+                }
+              ]
+            },
+            {
+              "ItemId": "place_0032",
+              "ItemName": "Jazan Corniche Walk",
+              "City": "Jazan",
+              "Category": "leisure",
+              "Environment": "Outdoor",
+              "GroupCost": 0.0,
+              "DurationMinutes": 90.0,
+              "available_from": "0001-01-01",
+              "available_until": "9999-12-31",
+              "opens": "16:00",
+              "closes": "23:00",
+              "retrieval_score": 85.3173,
+              "Suitability": {
+                "SuitableForAdults": 0.9,
+                "SuitableForChildren": 0.9,
+                "SuitableForInfants": 0.75
+              },
+              "MinAge": 0.0,
+              "MaxAge": 80.0,
+              "scheduling_windows": [
+                {
+                  "date": "2026-10-15",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-16",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                },
+                {
+                  "date": "2026-10-17",
+                  "schedulable": true,
+                  "earliest_start": "16:00",
+                  "latest_start": "20:30"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "wvs_prior": {
+        "used": true,
+        "hobbies": {
+          "Hiking": 0.7840812461365445,
+          "Beach & Water Activities": 0.7845555565889581,
+          "Enjoying Nature": 0.8493180014887278,
+          "National Parks": 0.618883130395254,
+          "Museums & Exhibitions": 0.16366571124352197,
+          "Guided Heritage Tours": 0.059191303116901406,
+          "Luxury Dining": 0.30695004939610715,
+          "Shopping & Malls": 0.7479296080438312,
+          "Festivals & Theme Parks": 0.24504518396905633
+        },
+        "categories": {
+          "adventure": 0.8564624733089798,
+          "beach": 0.8678990890045015,
+          "cultural": 0.18503994050180692,
+          "entertainment": 0.36881660447859055,
+          "food": 0.42907300952758254,
+          "nature": 0.7507983800093629,
+          "shopping": 0.8217962703968631
+        },
+        "environments": {
+          "Indoor": 0.40069505275592554,
+          "Outdoor": 0.9345841511680246,
+          "Both": 0.17094567985553716
+        }
+      }
+    }
+  }
+}

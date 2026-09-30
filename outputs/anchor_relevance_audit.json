@@ -1,0 +1,184 @@
+{
+  "Basic / No WVS": {
+    "all_city_rankings_scores_components_unchanged": true,
+    "before_anchors": [
+      {
+        "id": "place_0047",
+        "name": "King Khalid Wildlife Park",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0050",
+        "name": "Buraydah Water Tower",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0051",
+        "name": "Al-Jarad Heritage Market",
+        "GroupCost": 0.0
+      }
+    ],
+    "after_anchors": [
+      {
+        "id": "place_0054",
+        "name": "Al-Nakheel Mall Buraydah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0060",
+        "name": "Garden of Al-Montazah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0042",
+        "name": "Al-Uqailat Museum",
+        "GroupCost": 30.0
+      }
+    ],
+    "before_payload": [
+      {
+        "id": "place_0054",
+        "name": "Al-Nakheel Mall Buraydah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0042",
+        "name": "Al-Uqailat Museum",
+        "GroupCost": 30.0
+      },
+      {
+        "id": "place_0050",
+        "name": "Buraydah Water Tower",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0047",
+        "name": "King Khalid Wildlife Park",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0051",
+        "name": "Al-Jarad Heritage Market",
+        "GroupCost": 0.0
+      }
+    ],
+    "after_payload": [
+      {
+        "id": "place_0054",
+        "name": "Al-Nakheel Mall Buraydah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0042",
+        "name": "Al-Uqailat Museum",
+        "GroupCost": 30.0
+      },
+      {
+        "id": "place_0060",
+        "name": "Garden of Al-Montazah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0050",
+        "name": "Buraydah Water Tower",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0056",
+        "name": "Al-Bassr Garden Park",
+        "GroupCost": 0.0
+      }
+    ]
+  },
+  "WVS Cold-Start": {
+    "all_city_rankings_scores_components_unchanged": true,
+    "before_anchors": [
+      {
+        "id": "place_0047",
+        "name": "King Khalid Wildlife Park",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0050",
+        "name": "Buraydah Water Tower",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0051",
+        "name": "Al-Jarad Heritage Market",
+        "GroupCost": 0.0
+      }
+    ],
+    "after_anchors": [
+      {
+        "id": "place_0054",
+        "name": "Al-Nakheel Mall Buraydah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0056",
+        "name": "Al-Bassr Garden Park",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0060",
+        "name": "Garden of Al-Montazah",
+        "GroupCost": 0.0
+      }
+    ],
+    "before_payload": [
+      {
+        "id": "place_0054",
+        "name": "Al-Nakheel Mall Buraydah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0060",
+        "name": "Garden of Al-Montazah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0047",
+        "name": "King Khalid Wildlife Park",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0050",
+        "name": "Buraydah Water Tower",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0051",
+        "name": "Al-Jarad Heritage Market",
+        "GroupCost": 0.0
+      }
+    ],
+    "after_payload": [
+      {
+        "id": "place_0054",
+        "name": "Al-Nakheel Mall Buraydah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0060",
+        "name": "Garden of Al-Montazah",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0056",
+        "name": "Al-Bassr Garden Park",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0047",
+        "name": "King Khalid Wildlife Park",
+        "GroupCost": 0.0
+      },
+      {
+        "id": "place_0042",
+        "name": "Al-Uqailat Museum",
+        "GroupCost": 30.0
+      }
+    ]
+  }
+}
